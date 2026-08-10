@@ -20,15 +20,20 @@ struct ContentView: View {
                     )
                 } else {
                     List(refeicoes) { refeicao in
-                        VStack(alignment: .leading, spacing: 4) {
-                            Text(refeicao.data, format: .dateTime.day().month().year().hour().minute())
-                                .font(.headline)
-                            Text(refeicao.totalKcal.description)
-                                .font(.subheadline)
-                                .foregroundStyle(.secondary)
+                        NavigationLink(value: refeicao) {
+                            VStack(alignment: .leading, spacing: 4) {
+                                Text(refeicao.data, format: .dateTime.day().month().year().hour().minute())
+                                    .font(.headline)
+                                Text(refeicao.totalKcal.description)
+                                    .font(.subheadline)
+                                    .foregroundStyle(.secondary)
+                            }
                         }
                     }
                 }
+            }
+            .navigationDestination(for: Refeicao.self) { refeicao in
+                RefeicaoDetailView(refeicao: refeicao)
             }
             .navigationTitle("FoodLens")
             .toolbar {
