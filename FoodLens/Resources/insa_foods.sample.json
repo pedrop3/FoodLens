@@ -1,0 +1,12 @@
+[
+  { "id": "sample-0001", "name": "Arroz, branco, cozido", "kcalPer100g": 130 },
+  { "id": "sample-0002", "name": "Batata, cozida", "kcalPer100g": 87 },
+  { "id": "sample-0003", "name": "Frango, peito, grelhado", "kcalPer100g": 165 },
+  { "id": "sample-0004", "name": "Brócolos, cozidos", "kcalPer100g": 35 },
+  { "id": "sample-0005", "name": "Feijão preto, cozido", "kcalPer100g": 132 },
+  { "id": "sample-0006", "name": "Bacalhau, cozido", "kcalPer100g": 105 },
+  { "id": "sample-0007", "name": "Azeite", "kcalPer100g": 884 },
+  { "id": "sample-0008", "name": "Pão de trigo", "kcalPer100g": 265 },
+  { "id": "sample-0009", "name": "Ovo, cozido", "kcalPer100g": 155 },
+  { "id": "sample-0010", "name": "Alface", "kcalPer100g": 15 }
+]

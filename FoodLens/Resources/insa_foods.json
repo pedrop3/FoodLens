@@ -1,0 +1,6882 @@
+[
+  {
+    "id": "624",
+    "name": "Abacate, Hass",
+    "kcalPer100g": 176.0
+  },
+  {
+    "id": "625",
+    "name": "Abóbora cristalizada",
+    "kcalPer100g": 293.0
+  },
+  {
+    "id": "579",
+    "name": "Abóbora crua",
+    "kcalPer100g": 11.0
+  },
+  {
+    "id": "801",
+    "name": "Abrótea cozida",
+    "kcalPer100g": 79.0
+  },
+  {
+    "id": "800",
+    "name": "Abrótea crua",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "1188",
+    "name": "Açafrão",
+    "kcalPer100g": 353.0
+  },
+  {
+    "id": "1187",
+    "name": "Açafrão-da-índia seco",
+    "kcalPer100g": 312.0
+  },
+  {
+    "id": "1900000023",
+    "name": "Acelga crua",
+    "kcalPer100g": 23.0
+  },
+  {
+    "id": "510",
+    "name": "Achocolatado com alto teor de gordura, pó",
+    "kcalPer100g": 428.0
+  },
+  {
+    "id": "509",
+    "name": "Achocolatado com baixo teor de gordura, pó",
+    "kcalPer100g": 395.0
+  },
+  {
+    "id": "1008",
+    "name": "Açorda",
+    "kcalPer100g": 104.0
+  },
+  {
+    "id": "1010",
+    "name": "Açorda à alentejana",
+    "kcalPer100g": 95.0
+  },
+  {
+    "id": "1011",
+    "name": "Açorda de bacalhau",
+    "kcalPer100g": 69.0
+  },
+  {
+    "id": "1014",
+    "name": "Açorda de marisco",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "949",
+    "name": "Açorda de ovo",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "502",
+    "name": "Açúcar amarelo",
+    "kcalPer100g": 390.0
+  },
+  {
+    "id": "503",
+    "name": "Açúcar branco",
+    "kcalPer100g": 397.0
+  },
+  {
+    "id": "580",
+    "name": "Agrião cru",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "2",
+    "name": "Água mineral natural gaseificada, \"Água Castello\"",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "5",
+    "name": "Água mineral natural gaseificada, \"Vimeiro\"",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "3",
+    "name": "Água mineral natural gasocarbónica, \"Pedras Salgadas\"",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "4",
+    "name": "Água mineral natural, \"Luso\"",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "1",
+    "name": "Água, rede pública de abastecimento (Lisboa)",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "729",
+    "name": "Aguardente",
+    "kcalPer100g": 308.0
+  },
+  {
+    "id": "959",
+    "name": "Aipo cru",
+    "kcalPer100g": 15.0
+  },
+  {
+    "id": "583",
+    "name": "Alcachofra cozida",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "582",
+    "name": "Alcachofra crua",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "1900000033",
+    "name": "Alcaparras (picles)",
+    "kcalPer100g": 44.0
+  },
+  {
+    "id": "1189",
+    "name": "Alecrim fresco",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "1190",
+    "name": "Alecrim seco",
+    "kcalPer100g": 377.0
+  },
+  {
+    "id": "584",
+    "name": "Alface",
+    "kcalPer100g": 12.0
+  },
+  {
+    "id": "1900000024",
+    "name": "Alface roxa",
+    "kcalPer100g": 12.0
+  },
+  {
+    "id": "250030",
+    "name": "Algas nori",
+    "kcalPer100g": 256.0
+  },
+  {
+    "id": "339",
+    "name": "Alheira cozida",
+    "kcalPer100g": 269.0
+  },
+  {
+    "id": "338",
+    "name": "Alheira crua",
+    "kcalPer100g": 309.0
+  },
+  {
+    "id": "340",
+    "name": "Alheira grelhada",
+    "kcalPer100g": 302.0
+  },
+  {
+    "id": "581",
+    "name": "Alho-francês cru",
+    "kcalPer100g": 26.0
+  },
+  {
+    "id": "8",
+    "name": "Alho cru",
+    "kcalPer100g": 72.0
+  },
+  {
+    "id": "9",
+    "name": "Alho em pó",
+    "kcalPer100g": 310.0
+  },
+  {
+    "id": "1035",
+    "name": "Almôndegas de porco",
+    "kcalPer100g": 234.0
+  },
+  {
+    "id": "1036",
+    "name": "Almôndegas de vaca",
+    "kcalPer100g": 252.0
+  },
+  {
+    "id": "373",
+    "name": "Almôndegas de vaca e porco",
+    "kcalPer100g": 243.0
+  },
+  {
+    "id": "644",
+    "name": "Alperce",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "648",
+    "name": "Alperce seco",
+    "kcalPer100g": 242.0
+  },
+  {
+    "id": "645",
+    "name": "Alperce, conserva em calda de açúcar",
+    "kcalPer100g": 163.0
+  },
+  {
+    "id": "250025",
+    "name": "Alternativa vegetal ao iogurte à base de coco, sem açúcar",
+    "kcalPer100g": 89.0
+  },
+  {
+    "id": "2122000001",
+    "name": "Alternativa vegetal ao iogurte à base de soja",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "908",
+    "name": "Amêijoa aberta ao natural sem sal",
+    "kcalPer100g": 131.0
+  },
+  {
+    "id": "907",
+    "name": "Amêijoa crua",
+    "kcalPer100g": 65.0
+  },
+  {
+    "id": "1162",
+    "name": "Amêijoas à Bulhão Pato",
+    "kcalPer100g": 89.0
+  },
+  {
+    "id": "626",
+    "name": "Ameixa branca",
+    "kcalPer100g": 40.0
+  },
+  {
+    "id": "627",
+    "name": "Ameixa encarnada",
+    "kcalPer100g": 41.0
+  },
+  {
+    "id": "630",
+    "name": "Ameixa rainha Cláudia",
+    "kcalPer100g": 57.0
+  },
+  {
+    "id": "631",
+    "name": "Ameixa seca",
+    "kcalPer100g": 198.0
+  },
+  {
+    "id": "628",
+    "name": "Ameixa, conserva em calda de açúcar",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "697",
+    "name": "Amêndoa, miolo, com pele",
+    "kcalPer100g": 643.0
+  },
+  {
+    "id": "698",
+    "name": "Amêndoa, miolo, torrada, sem pele",
+    "kcalPer100g": 650.0
+  },
+  {
+    "id": "699",
+    "name": "Amendoim, miolo",
+    "kcalPer100g": 589.0
+  },
+  {
+    "id": "701",
+    "name": "Amendoim, miolo, torrado com sal",
+    "kcalPer100g": 622.0
+  },
+  {
+    "id": "700",
+    "name": "Amendoim, miolo, torrado sem sal",
+    "kcalPer100g": 622.0
+  },
+  {
+    "id": "1900000089",
+    "name": "Amora silvestre",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "632",
+    "name": "Ananás",
+    "kcalPer100g": 42.0
+  },
+  {
+    "id": "1900000104",
+    "name": "Ananás desidratado",
+    "kcalPer100g": 363.0
+  },
+  {
+    "id": "633",
+    "name": "Ananás, conserva em calda de açúcar",
+    "kcalPer100g": 98.0
+  },
+  {
+    "id": "1191",
+    "name": "Anchova, conserva em óleo, escorrido",
+    "kcalPer100g": 191.0
+  },
+  {
+    "id": "635",
+    "name": "Anona",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "1900000105",
+    "name": "Anona desidratada",
+    "kcalPer100g": 351.0
+  },
+  {
+    "id": "1087",
+    "name": "Arroz à valenciana",
+    "kcalPer100g": 111.0
+  },
+  {
+    "id": "402",
+    "name": "Arroz agulha cru",
+    "kcalPer100g": 347.0
+  },
+  {
+    "id": "400",
+    "name": "Arroz carolino branqueado cru",
+    "kcalPer100g": 357.0
+  },
+  {
+    "id": "403",
+    "name": "Arroz cozido simples",
+    "kcalPer100g": 125.0
+  },
+  {
+    "id": "1058",
+    "name": "Arroz de bacalhau",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "1059",
+    "name": "Arroz de bacalhau com margarina",
+    "kcalPer100g": 91.0
+  },
+  {
+    "id": "1096",
+    "name": "Arroz de cabidela",
+    "kcalPer100g": 105.0
+  },
+  {
+    "id": "405",
+    "name": "Arroz de cenoura com azeite",
+    "kcalPer100g": 127.0
+  },
+  {
+    "id": "1091",
+    "name": "Arroz de ervilhas",
+    "kcalPer100g": 85.0
+  },
+  {
+    "id": "1093",
+    "name": "Arroz de feijão",
+    "kcalPer100g": 139.0
+  },
+  {
+    "id": "958",
+    "name": "Arroz de frango",
+    "kcalPer100g": 205.0
+  },
+  {
+    "id": "1098",
+    "name": "Arroz de frango com feijão e chouriço",
+    "kcalPer100g": 116.0
+  },
+  {
+    "id": "1097",
+    "name": "Arroz de frango malandrinho à moda de Monção",
+    "kcalPer100g": 132.0
+  },
+  {
+    "id": "1041",
+    "name": "Arroz de gambas",
+    "kcalPer100g": 94.0
+  },
+  {
+    "id": "1060",
+    "name": "Arroz de lulas",
+    "kcalPer100g": 66.0
+  },
+  {
+    "id": "404",
+    "name": "Arroz de manteiga",
+    "kcalPer100g": 265.0
+  },
+  {
+    "id": "1040",
+    "name": "Arroz de marisco",
+    "kcalPer100g": 72.0
+  },
+  {
+    "id": "1099",
+    "name": "Arroz de pato",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "408",
+    "name": "Arroz de peixe",
+    "kcalPer100g": 125.0
+  },
+  {
+    "id": "1061",
+    "name": "Arroz de peixe com ervilhas",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "924",
+    "name": "Arroz de polvo com azeite",
+    "kcalPer100g": 127.0
+  },
+  {
+    "id": "1062",
+    "name": "Arroz de polvo com tomate",
+    "kcalPer100g": 128.0
+  },
+  {
+    "id": "1063",
+    "name": "Arroz de polvo com tomate e vinho",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "1065",
+    "name": "Arroz de tamboril",
+    "kcalPer100g": 87.0
+  },
+  {
+    "id": "1064",
+    "name": "Arroz de tamboril malandrinho",
+    "kcalPer100g": 67.0
+  },
+  {
+    "id": "407",
+    "name": "Arroz de tomate com azeite",
+    "kcalPer100g": 129.0
+  },
+  {
+    "id": "406",
+    "name": "Arroz de tomate com margarina",
+    "kcalPer100g": 122.0
+  },
+  {
+    "id": "1090",
+    "name": "Arroz de tomate malandrinho",
+    "kcalPer100g": 132.0
+  },
+  {
+    "id": "499",
+    "name": "Arroz doce",
+    "kcalPer100g": 233.0
+  },
+  {
+    "id": "401",
+    "name": "Arroz integral cru",
+    "kcalPer100g": 351.0
+  },
+  {
+    "id": "814",
+    "name": "Atum conserva em óleo",
+    "kcalPer100g": 214.0
+  },
+  {
+    "id": "1159",
+    "name": "Atum de cebolada",
+    "kcalPer100g": 135.0
+  },
+  {
+    "id": "811",
+    "name": "Atum fresco cru",
+    "kcalPer100g": 138.0
+  },
+  {
+    "id": "812",
+    "name": "Atum fresco grelhado",
+    "kcalPer100g": 166.0
+  },
+  {
+    "id": "813",
+    "name": "Atum fresco, bife estufado com azeite e vinho",
+    "kcalPer100g": 196.0
+  },
+  {
+    "id": "702",
+    "name": "Avelã, miolo",
+    "kcalPer100g": 689.0
+  },
+  {
+    "id": "395",
+    "name": "Azeite (4 marcas)",
+    "kcalPer100g": 899.0
+  },
+  {
+    "id": "703",
+    "name": "Azeitona",
+    "kcalPer100g": 164.0
+  },
+  {
+    "id": "809",
+    "name": "Bacalhau à Brás",
+    "kcalPer100g": 164.0
+  },
+  {
+    "id": "1044",
+    "name": "Bacalhau à Brás com azeite",
+    "kcalPer100g": 195.0
+  },
+  {
+    "id": "1045",
+    "name": "Bacalhau à Brás com azeite e azeitonas",
+    "kcalPer100g": 93.0
+  },
+  {
+    "id": "810",
+    "name": "Bacalhau à Gomes de Sá",
+    "kcalPer100g": 139.0
+  },
+  {
+    "id": "1047",
+    "name": "Bacalhau à Gomes de Sá, com azeite",
+    "kcalPer100g": 160.0
+  },
+  {
+    "id": "807",
+    "name": "Bacalhau assado no forno com azeite",
+    "kcalPer100g": 136.0
+  },
+  {
+    "id": "1038",
+    "name": "Bacalhau com natas",
+    "kcalPer100g": 98.0
+  },
+  {
+    "id": "1039",
+    "name": "Bacalhau com natas, com queijo ralado",
+    "kcalPer100g": 167.0
+  },
+  {
+    "id": "805",
+    "name": "Bacalhau cozido",
+    "kcalPer100g": 106.0
+  },
+  {
+    "id": "803",
+    "name": "Bacalhau fresco cozido",
+    "kcalPer100g": 84.0
+  },
+  {
+    "id": "802",
+    "name": "Bacalhau fresco cru",
+    "kcalPer100g": 76.0
+  },
+  {
+    "id": "806",
+    "name": "Bacalhau grelhado",
+    "kcalPer100g": 123.0
+  },
+  {
+    "id": "804",
+    "name": "Bacalhau seco e salgado, demolhado cru",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "808",
+    "name": "Bacalhau, filetes fritos",
+    "kcalPer100g": 194.0
+  },
+  {
+    "id": "1900000061",
+    "name": "Bacalhau, ovas cruas",
+    "kcalPer100g": 104.0
+  },
+  {
+    "id": "311",
+    "name": "Bacon",
+    "kcalPer100g": 367.0
+  },
+  {
+    "id": "312",
+    "name": "Bacon, grelhado",
+    "kcalPer100g": 372.0
+  },
+  {
+    "id": "2122000013",
+    "name": "Bagas goji secas",
+    "kcalPer100g": 303.0
+  },
+  {
+    "id": "636",
+    "name": "Banana",
+    "kcalPer100g": 97.0
+  },
+  {
+    "id": "313",
+    "name": "Banha de porco",
+    "kcalPer100g": 896.0
+  },
+  {
+    "id": "738",
+    "name": "Base em pó para bebida de ananás",
+    "kcalPer100g": 369.0
+  },
+  {
+    "id": "743",
+    "name": "Base em pó para bebida de laranja",
+    "kcalPer100g": 375.0
+  },
+  {
+    "id": "588",
+    "name": "Batata assada com pele, sem sal (só a polpa)",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "587",
+    "name": "Batata assada no forno",
+    "kcalPer100g": 159.0
+  },
+  {
+    "id": "586",
+    "name": "Batata cozida",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "585",
+    "name": "Batata crua",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "594",
+    "name": "Batata doce assada",
+    "kcalPer100g": 123.0
+  },
+  {
+    "id": "593",
+    "name": "Batata doce crua",
+    "kcalPer100g": 123.0
+  },
+  {
+    "id": "590",
+    "name": "Batata estufada com cebola, azeite e óleo alimentar",
+    "kcalPer100g": 97.0
+  },
+  {
+    "id": "591",
+    "name": "Batata frita caseira (em palitos)",
+    "kcalPer100g": 227.0
+  },
+  {
+    "id": "592",
+    "name": "Batata frita, de pacote (em rodelas)",
+    "kcalPer100g": 543.0
+  },
+  {
+    "id": "453",
+    "name": "Batata, fécula",
+    "kcalPer100g": 345.0
+  },
+  {
+    "id": "763",
+    "name": "Bebida refrigerante, cola",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "764",
+    "name": "Bebida refrigerante, cola sem açúcar",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "765",
+    "name": "Bebida refrigerante, gasosa",
+    "kcalPer100g": 28.0
+  },
+  {
+    "id": "766",
+    "name": "Bebida refrigerante, laranja",
+    "kcalPer100g": 31.0
+  },
+  {
+    "id": "250002",
+    "name": "Bebida vegetal à base de amêndoa (alternativa ao leite)",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "250001",
+    "name": "Bebida vegetal à base de amêndoa, 0% açúcares (alternativa ao leite)",
+    "kcalPer100g": 17.0
+  },
+  {
+    "id": "250003",
+    "name": "Bebida vegetal à base de amêndoa, com aroma a chocolate (alternativa ao leite)",
+    "kcalPer100g": 49.0
+  },
+  {
+    "id": "240006",
+    "name": "Bebida vegetal à base de arroz (alternativa ao leite)",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "240007",
+    "name": "Bebida vegetal à base de aveia (alternativa ao leite)",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "240008",
+    "name": "Bebida vegetal à base de aveia, 0% de açúcar (alternativa ao leite)",
+    "kcalPer100g": 36.0
+  },
+  {
+    "id": "240009",
+    "name": "Bebida vegetal à base de aveia, com açúcares adicionados (alternativa ao leite)",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "240005",
+    "name": "Bebida vegetal à base de soja (alternativa ao leite)",
+    "kcalPer100g": 49.0
+  },
+  {
+    "id": "543",
+    "name": "Bebida vegetal à base de soja com açúcar, com cálcio, sal e aromas (alternativa ao leite)",
+    "kcalPer100g": 42.0
+  },
+  {
+    "id": "544",
+    "name": "Bebida vegetal à base de soja com açúcar, sal e aromas (alternativa ao leite)",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "542",
+    "name": "Bebida vegetal à base de soja natural, sem açúcar e sem sal (alternativa ao leite)",
+    "kcalPer100g": 37.0
+  },
+  {
+    "id": "1900000028",
+    "name": "Beldroega crua",
+    "kcalPer100g": 13.0
+  },
+  {
+    "id": "920",
+    "name": "Berbigão aberto ao natural sem sal",
+    "kcalPer100g": 118.0
+  },
+  {
+    "id": "919",
+    "name": "Berbigão cru",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "619",
+    "name": "Beringela crua",
+    "kcalPer100g": 21.0
+  },
+  {
+    "id": "620",
+    "name": "Beringela grelhada com azeite",
+    "kcalPer100g": 99.0
+  },
+  {
+    "id": "1920000019",
+    "name": "Besugo cru",
+    "kcalPer100g": 102.0
+  },
+  {
+    "id": "596",
+    "name": "Beterraba (raiz) cozida sem sal",
+    "kcalPer100g": 23.0
+  },
+  {
+    "id": "595",
+    "name": "Beterraba (raiz) crua",
+    "kcalPer100g": 23.0
+  },
+  {
+    "id": "460",
+    "name": "Biscoitos caseiros",
+    "kcalPer100g": 423.0
+  },
+  {
+    "id": "456",
+    "name": "Biscoitos limão",
+    "kcalPer100g": 382.0
+  },
+  {
+    "id": "455",
+    "name": "Biscoitos, argolas",
+    "kcalPer100g": 451.0
+  },
+  {
+    "id": "457",
+    "name": "Biscoitos, línguas de gato",
+    "kcalPer100g": 377.0
+  },
+  {
+    "id": "458",
+    "name": "Biscoitos, línguas de veado",
+    "kcalPer100g": 474.0
+  },
+  {
+    "id": "459",
+    "name": "Biscoitos, palitos la Reine",
+    "kcalPer100g": 381.0
+  },
+  {
+    "id": "472",
+    "name": "Bola de Berlim sem creme",
+    "kcalPer100g": 402.0
+  },
+  {
+    "id": "464",
+    "name": "Bolacha \"Belga\"",
+    "kcalPer100g": 487.0
+  },
+  {
+    "id": "466",
+    "name": "Bolacha \"Cream cracker\"",
+    "kcalPer100g": 442.0
+  },
+  {
+    "id": "463",
+    "name": "Bolacha \"waffer\" baunilha",
+    "kcalPer100g": 564.0
+  },
+  {
+    "id": "461",
+    "name": "Bolacha água e sal",
+    "kcalPer100g": 437.0
+  },
+  {
+    "id": "462",
+    "name": "Bolacha aveia",
+    "kcalPer100g": 443.0
+  },
+  {
+    "id": "465",
+    "name": "Bolacha chocolate",
+    "kcalPer100g": 510.0
+  },
+  {
+    "id": "467",
+    "name": "Bolacha integral (trigo)",
+    "kcalPer100g": 450.0
+  },
+  {
+    "id": "468",
+    "name": "Bolacha manteiga",
+    "kcalPer100g": 483.0
+  },
+  {
+    "id": "469",
+    "name": "Bolacha Maria",
+    "kcalPer100g": 436.0
+  },
+  {
+    "id": "470",
+    "name": "Bolacha torrada",
+    "kcalPer100g": 437.0
+  },
+  {
+    "id": "479",
+    "name": "Bolo-Rei",
+    "kcalPer100g": 407.0
+  },
+  {
+    "id": "473",
+    "name": "Bolo de arroz",
+    "kcalPer100g": 391.0
+  },
+  {
+    "id": "474",
+    "name": "Bolo de bolacha Maria",
+    "kcalPer100g": 389.0
+  },
+  {
+    "id": "475",
+    "name": "Bolo de chocolate",
+    "kcalPer100g": 463.0
+  },
+  {
+    "id": "476",
+    "name": "Bolo de coco",
+    "kcalPer100g": 454.0
+  },
+  {
+    "id": "477",
+    "name": "Bolo ferradura",
+    "kcalPer100g": 351.0
+  },
+  {
+    "id": "478",
+    "name": "Bolo inglês",
+    "kcalPer100g": 380.0
+  },
+  {
+    "id": "1147",
+    "name": "Borrego, perna no forno",
+    "kcalPer100g": 168.0
+  },
+  {
+    "id": "122",
+    "name": "Borrego, perna ou costeleta assada com azeite e margarina",
+    "kcalPer100g": 234.0
+  },
+  {
+    "id": "123",
+    "name": "Borrego, perna ou costeleta assada com margarina",
+    "kcalPer100g": 224.0
+  },
+  {
+    "id": "124",
+    "name": "Borrego, perna ou costeleta assada com margarina, sem molho",
+    "kcalPer100g": 166.0
+  },
+  {
+    "id": "116",
+    "name": "Borrego, perna ou costeleta assada sem molho",
+    "kcalPer100g": 168.0
+  },
+  {
+    "id": "102",
+    "name": "Borrego, perna ou costeleta cozida",
+    "kcalPer100g": 157.0
+  },
+  {
+    "id": "96",
+    "name": "Borrego, perna ou costeleta crua",
+    "kcalPer100g": 124.0
+  },
+  {
+    "id": "111",
+    "name": "Borrego, perna ou costeleta estufada com azeite e margarina",
+    "kcalPer100g": 183.0
+  },
+  {
+    "id": "112",
+    "name": "Borrego, perna ou costeleta estufada com margarina",
+    "kcalPer100g": 175.0
+  },
+  {
+    "id": "105",
+    "name": "Borrego, perna ou costeleta estufada sem molho",
+    "kcalPer100g": 185.0
+  },
+  {
+    "id": "113",
+    "name": "Borrego, perna ou costeleta grelhada",
+    "kcalPer100g": 152.0
+  },
+  {
+    "id": "730",
+    "name": "Brandy",
+    "kcalPer100g": 246.0
+  },
+  {
+    "id": "551",
+    "name": "Brócolos cozidos",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "550",
+    "name": "Brócolos crus",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "2122000006",
+    "name": "Bulgur",
+    "kcalPer100g": 344.0
+  },
+  {
+    "id": "1900000100",
+    "name": "Búzio cru",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "126",
+    "name": "Cabrito, costeleta crua",
+    "kcalPer100g": 120.0
+  },
+  {
+    "id": "136",
+    "name": "Cabrito, costeleta grelhada",
+    "kcalPer100g": 151.0
+  },
+  {
+    "id": "127",
+    "name": "Cabrito, peito cru",
+    "kcalPer100g": 116.0
+  },
+  {
+    "id": "132",
+    "name": "Cabrito, peito estufado com azeite e margarina",
+    "kcalPer100g": 173.0
+  },
+  {
+    "id": "133",
+    "name": "Cabrito, peito estufado com azeite e óleo alimentar",
+    "kcalPer100g": 176.0
+  },
+  {
+    "id": "130",
+    "name": "Cabrito, peito estufado com manteiga e óleo alimentar",
+    "kcalPer100g": 173.0
+  },
+  {
+    "id": "131",
+    "name": "Cabrito, peito estufado com margarina e óleo alimentar",
+    "kcalPer100g": 173.0
+  },
+  {
+    "id": "129",
+    "name": "Cabrito, peito estufado, sem molho",
+    "kcalPer100g": 153.0
+  },
+  {
+    "id": "137",
+    "name": "Cabrito, peito grelhado",
+    "kcalPer100g": 144.0
+  },
+  {
+    "id": "140",
+    "name": "Cabrito, perna assada com azeite e margarina",
+    "kcalPer100g": 180.0
+  },
+  {
+    "id": "138",
+    "name": "Cabrito, perna assada com óleo alimentar e margarina",
+    "kcalPer100g": 180.0
+  },
+  {
+    "id": "139",
+    "name": "Cabrito, perna assada, sem molho",
+    "kcalPer100g": 135.0
+  },
+  {
+    "id": "128",
+    "name": "Cabrito, perna crua",
+    "kcalPer100g": 113.0
+  },
+  {
+    "id": "815",
+    "name": "Cação cru",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "816",
+    "name": "Cação frito",
+    "kcalPer100g": 170.0
+  },
+  {
+    "id": "505",
+    "name": "Cacau em pó",
+    "kcalPer100g": 358.0
+  },
+  {
+    "id": "2120000014",
+    "name": "Cachucho cru",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "771",
+    "name": "Café solúvel em pó",
+    "kcalPer100g": 272.0
+  },
+  {
+    "id": "773",
+    "name": "Café solúvel, descafeinado, pó",
+    "kcalPer100g": 274.0
+  },
+  {
+    "id": "767",
+    "name": "Café, infusão - bica",
+    "kcalPer100g": 4.0
+  },
+  {
+    "id": "769",
+    "name": "Café, infusão - café de cafeteira",
+    "kcalPer100g": 2.0
+  },
+  {
+    "id": "768",
+    "name": "Café, infusão - carioca",
+    "kcalPer100g": 2.0
+  },
+  {
+    "id": "770",
+    "name": "Café, infusão - valor médio (bica 60% e café de cafeteira 40%)",
+    "kcalPer100g": 3.0
+  },
+  {
+    "id": "1050",
+    "name": "Caldeirada de bacalhau",
+    "kcalPer100g": 67.0
+  },
+  {
+    "id": "1049",
+    "name": "Caldeirada de bacalhau com enchidos e massa",
+    "kcalPer100g": 146.0
+  },
+  {
+    "id": "134",
+    "name": "Caldeirada de cabrito com azeite e banha",
+    "kcalPer100g": 119.0
+  },
+  {
+    "id": "135",
+    "name": "Caldeirada de cabrito com azeite e margarina",
+    "kcalPer100g": 116.0
+  },
+  {
+    "id": "833",
+    "name": "Caldeirada de enguias",
+    "kcalPer100g": 171.0
+  },
+  {
+    "id": "1048",
+    "name": "Caldeirada de enguias à moda de Aveiro",
+    "kcalPer100g": 245.0
+  },
+  {
+    "id": "1052",
+    "name": "Caldeirada de pargo e peixe-espada-preto",
+    "kcalPer100g": 138.0
+  },
+  {
+    "id": "1053",
+    "name": "Caldeirada de peixe",
+    "kcalPer100g": 84.0
+  },
+  {
+    "id": "1127",
+    "name": "Caldeirada de safio",
+    "kcalPer100g": 81.0
+  },
+  {
+    "id": "1051",
+    "name": "Caldeirada de safio com amêijoas",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "895",
+    "name": "Caldeirada de safio, raia e tamboril",
+    "kcalPer100g": 98.0
+  },
+  {
+    "id": "300",
+    "name": "Caldo preparado com cubo de carne de galinha (diluição 2%)",
+    "kcalPer100g": 5.0
+  },
+  {
+    "id": "299",
+    "name": "Caldo preparado com cubo de carne de vaca (diluição 2%)",
+    "kcalPer100g": 4.0
+  },
+  {
+    "id": "971",
+    "name": "Camarão cozido",
+    "kcalPer100g": 99.0
+  },
+  {
+    "id": "970",
+    "name": "Camarão cozido sem sal",
+    "kcalPer100g": 92.0
+  },
+  {
+    "id": "969",
+    "name": "Camarão cru",
+    "kcalPer100g": 77.0
+  },
+  {
+    "id": "549",
+    "name": "Canela moída",
+    "kcalPer100g": 315.0
+  },
+  {
+    "id": "1116",
+    "name": "Canja de frango com aipo",
+    "kcalPer100g": 56.0
+  },
+  {
+    "id": "1117",
+    "name": "Canja de frango com massa",
+    "kcalPer100g": 61.0
+  },
+  {
+    "id": "1900000026",
+    "name": "Canónigos crus",
+    "kcalPer100g": 24.0
+  },
+  {
+    "id": "904",
+    "name": "Cantarilho (Redfish) assado com cebola, tomate, azeite e bacon",
+    "kcalPer100g": 142.0
+  },
+  {
+    "id": "1160",
+    "name": "Cantarilho (Redfish) com batata, no forno",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "903",
+    "name": "Cantarilho (Redfish) cozido",
+    "kcalPer100g": 99.0
+  },
+  {
+    "id": "902",
+    "name": "Cantarilho (Redfish) cru",
+    "kcalPer100g": 101.0
+  },
+  {
+    "id": "1161",
+    "name": "Cantarilho (Redfish) no forno",
+    "kcalPer100g": 114.0
+  },
+  {
+    "id": "250013",
+    "name": "Caracol riscado, cozido",
+    "kcalPer100g": 89.0
+  },
+  {
+    "id": "1900000115",
+    "name": "Caracol, cru",
+    "kcalPer100g": 85.0
+  },
+  {
+    "id": "623",
+    "name": "Carambola",
+    "kcalPer100g": 40.0
+  },
+  {
+    "id": "817",
+    "name": "Carapau cru",
+    "kcalPer100g": 105.0
+  },
+  {
+    "id": "819",
+    "name": "Carapau frito",
+    "kcalPer100g": 186.0
+  },
+  {
+    "id": "818",
+    "name": "Carapau grelhado",
+    "kcalPer100g": 139.0
+  },
+  {
+    "id": "1900000044",
+    "name": "Cardamomo verde",
+    "kcalPer100g": 335.0
+  },
+  {
+    "id": "1193",
+    "name": "Caril em pó",
+    "kcalPer100g": 342.0
+  },
+  {
+    "id": "1027",
+    "name": "Carne à bolonhesa",
+    "kcalPer100g": 238.0
+  },
+  {
+    "id": "1028",
+    "name": "Carne à jardineira",
+    "kcalPer100g": 140.0
+  },
+  {
+    "id": "1030",
+    "name": "Carne de porco à alentejana",
+    "kcalPer100g": 229.0
+  },
+  {
+    "id": "1029",
+    "name": "Carne de porco à alentejana sem massa de pimentão",
+    "kcalPer100g": 183.0
+  },
+  {
+    "id": "97",
+    "name": "Carneiro, costeleta crua",
+    "kcalPer100g": 151.0
+  },
+  {
+    "id": "119",
+    "name": "Carneiro, pá assada com azeite e margarina",
+    "kcalPer100g": 319.0
+  },
+  {
+    "id": "118",
+    "name": "Carneiro, pá assada com margarina",
+    "kcalPer100g": 310.0
+  },
+  {
+    "id": "117",
+    "name": "Carneiro, pá assada, sem molho",
+    "kcalPer100g": 202.0
+  },
+  {
+    "id": "104",
+    "name": "Carneiro, pá cozida",
+    "kcalPer100g": 238.0
+  },
+  {
+    "id": "98",
+    "name": "Carneiro, pá crua",
+    "kcalPer100g": 195.0
+  },
+  {
+    "id": "107",
+    "name": "Carneiro, pá estufada sem molho",
+    "kcalPer100g": 238.0
+  },
+  {
+    "id": "103",
+    "name": "Carneiro, peito gordo, cozido",
+    "kcalPer100g": 333.0
+  },
+  {
+    "id": "99",
+    "name": "Carneiro, peito gordo, cru",
+    "kcalPer100g": 396.0
+  },
+  {
+    "id": "115",
+    "name": "Carneiro, perna gorda, assada, sem molho",
+    "kcalPer100g": 285.0
+  },
+  {
+    "id": "100",
+    "name": "Carneiro, perna gorda, crua",
+    "kcalPer100g": 276.0
+  },
+  {
+    "id": "106",
+    "name": "Carneiro, perna gorda, estufada sem molho",
+    "kcalPer100g": 339.0
+  },
+  {
+    "id": "121",
+    "name": "Carneiro, perna magra assada com azeite e margarina",
+    "kcalPer100g": 242.0
+  },
+  {
+    "id": "120",
+    "name": "Carneiro, perna magra assada com margarina",
+    "kcalPer100g": 232.0
+  },
+  {
+    "id": "114",
+    "name": "Carneiro, perna magra, assada, sem molho",
+    "kcalPer100g": 178.0
+  },
+  {
+    "id": "101",
+    "name": "Carneiro, perna magra, crua",
+    "kcalPer100g": 130.0
+  },
+  {
+    "id": "110",
+    "name": "Carneiro, perna magra, estufada com azeite e margarina",
+    "kcalPer100g": 201.0
+  },
+  {
+    "id": "109",
+    "name": "Carneiro, perna magra, estufada com margarina",
+    "kcalPer100g": 193.0
+  },
+  {
+    "id": "108",
+    "name": "Carneiro, perna magra, estufada sem molho",
+    "kcalPer100g": 195.0
+  },
+  {
+    "id": "125",
+    "name": "Carneiro, perna ou costeleta magra frita com margarina, sem molho",
+    "kcalPer100g": 174.0
+  },
+  {
+    "id": "332",
+    "name": "Carneiro, rim cru",
+    "kcalPer100g": 92.0
+  },
+  {
+    "id": "333",
+    "name": "Carneiro, rim frito com margarina",
+    "kcalPer100g": 205.0
+  },
+  {
+    "id": "1900000084",
+    "name": "Caseína",
+    "kcalPer100g": 358.0
+  },
+  {
+    "id": "706",
+    "name": "Castanha assada com sal",
+    "kcalPer100g": 222.0
+  },
+  {
+    "id": "1900000054",
+    "name": "Castanha cozida sem sal",
+    "kcalPer100g": 175.0
+  },
+  {
+    "id": "704",
+    "name": "Castanha de caju torrada e salgada",
+    "kcalPer100g": 613.0
+  },
+  {
+    "id": "1900000052",
+    "name": "Castanha de caju torrada, sem sal",
+    "kcalPer100g": 613.0
+  },
+  {
+    "id": "1900000093",
+    "name": "Castanha do Brasil",
+    "kcalPer100g": 690.0
+  },
+  {
+    "id": "707",
+    "name": "Castanha pilada",
+    "kcalPer100g": 341.0
+  },
+  {
+    "id": "705",
+    "name": "Castanha, miolo",
+    "kcalPer100g": 194.0
+  },
+  {
+    "id": "821",
+    "name": "Cavala cozida",
+    "kcalPer100g": 192.0
+  },
+  {
+    "id": "820",
+    "name": "Cavala crua",
+    "kcalPer100g": 202.0
+  },
+  {
+    "id": "822",
+    "name": "Cavala em filetes, conserva em azeite",
+    "kcalPer100g": 182.0
+  },
+  {
+    "id": "1128",
+    "name": "Cavala grelhada",
+    "kcalPer100g": 192.0
+  },
+  {
+    "id": "1129",
+    "name": "Cavala no forno",
+    "kcalPer100g": 192.0
+  },
+  {
+    "id": "141",
+    "name": "Cavalo, bife de alcatra crua",
+    "kcalPer100g": 116.0
+  },
+  {
+    "id": "144",
+    "name": "Cavalo, bife de alcatra frita com manteiga",
+    "kcalPer100g": 177.0
+  },
+  {
+    "id": "145",
+    "name": "Cavalo, bife de alcatra frita com margarina",
+    "kcalPer100g": 176.0
+  },
+  {
+    "id": "143",
+    "name": "Cavalo, bife de alcatra frita, sem molho",
+    "kcalPer100g": 147.0
+  },
+  {
+    "id": "150",
+    "name": "Cavalo, lombo ou pá assado com azeite e manteiga",
+    "kcalPer100g": 167.0
+  },
+  {
+    "id": "149",
+    "name": "Cavalo, lombo ou pá assado com margarina",
+    "kcalPer100g": 161.0
+  },
+  {
+    "id": "148",
+    "name": "Cavalo, lombo ou pá assado sem molho",
+    "kcalPer100g": 136.0
+  },
+  {
+    "id": "142",
+    "name": "Cavalo, lombo ou pá cru",
+    "kcalPer100g": 99.0
+  },
+  {
+    "id": "146",
+    "name": "Cavalo, lombo ou pá frito com manteiga",
+    "kcalPer100g": 158.0
+  },
+  {
+    "id": "147",
+    "name": "Cavalo, lombo ou pá frito com margarina",
+    "kcalPer100g": 157.0
+  },
+  {
+    "id": "598",
+    "name": "Cebola cozida",
+    "kcalPer100g": 18.0
+  },
+  {
+    "id": "597",
+    "name": "Cebola crua",
+    "kcalPer100g": 20.0
+  },
+  {
+    "id": "220002",
+    "name": "Cebola doce, crua",
+    "kcalPer100g": 25.0
+  },
+  {
+    "id": "599",
+    "name": "Cebola frita com óleo alimentar",
+    "kcalPer100g": 138.0
+  },
+  {
+    "id": "220001",
+    "name": "Cebola roxa, crua",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "1194",
+    "name": "Cebolinho fresco",
+    "kcalPer100g": 28.0
+  },
+  {
+    "id": "1900000018",
+    "name": "Cenoura baby crua",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "601",
+    "name": "Cenoura cozida",
+    "kcalPer100g": 33.0
+  },
+  {
+    "id": "600",
+    "name": "Cenoura crua",
+    "kcalPer100g": 25.0
+  },
+  {
+    "id": "451",
+    "name": "Cereal de pequeno almoço à base de farelo de trigo (tipo \"All-Bran\")",
+    "kcalPer100g": 310.0
+  },
+  {
+    "id": "450",
+    "name": "Cereal de pequeno almoço de trigo integral tipo \"Weetabix\"",
+    "kcalPer100g": 364.0
+  },
+  {
+    "id": "1195",
+    "name": "Cerefólio fresco",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "637",
+    "name": "Cereja (4 variedades)",
+    "kcalPer100g": 67.0
+  },
+  {
+    "id": "1900000111",
+    "name": "Cereja desidratada",
+    "kcalPer100g": 366.0
+  },
+  {
+    "id": "638",
+    "name": "Cereja, conserva em calda de açúcar",
+    "kcalPer100g": 120.0
+  },
+  {
+    "id": "641",
+    "name": "Cereja, cristalizada",
+    "kcalPer100g": 326.0
+  },
+  {
+    "id": "726",
+    "name": "Cerveja branca",
+    "kcalPer100g": 30.0
+  },
+  {
+    "id": "727",
+    "name": "Cerveja preta",
+    "kcalPer100g": 23.0
+  },
+  {
+    "id": "728",
+    "name": "Cerveja sem álcool",
+    "kcalPer100g": 7.0
+  },
+  {
+    "id": "962",
+    "name": "Chá, infusão, preto",
+    "kcalPer100g": 1.0
+  },
+  {
+    "id": "963",
+    "name": "Chá, infusão, verde",
+    "kcalPer100g": 1.0
+  },
+  {
+    "id": "369",
+    "name": "Chamuça",
+    "kcalPer100g": 344.0
+  },
+  {
+    "id": "897",
+    "name": "Cherne cozido",
+    "kcalPer100g": 124.0
+  },
+  {
+    "id": "896",
+    "name": "Cherne cru",
+    "kcalPer100g": 132.0
+  },
+  {
+    "id": "898",
+    "name": "Cherne grelhado",
+    "kcalPer100g": 153.0
+  },
+  {
+    "id": "824",
+    "name": "Chicharro cozido",
+    "kcalPer100g": 111.0
+  },
+  {
+    "id": "823",
+    "name": "Chicharro cru",
+    "kcalPer100g": 105.0
+  },
+  {
+    "id": "825",
+    "name": "Chicharro grelhado",
+    "kcalPer100g": 139.0
+  },
+  {
+    "id": "602",
+    "name": "Chicória crua",
+    "kcalPer100g": 14.0
+  },
+  {
+    "id": "912",
+    "name": "Choco cru",
+    "kcalPer100g": 79.0
+  },
+  {
+    "id": "913",
+    "name": "Choco grelhado",
+    "kcalPer100g": 109.0
+  },
+  {
+    "id": "506",
+    "name": "Chocolate culinária, tablete",
+    "kcalPer100g": 502.0
+  },
+  {
+    "id": "508",
+    "name": "Chocolate de leite, tablete",
+    "kcalPer100g": 552.0
+  },
+  {
+    "id": "1900000094",
+    "name": "Chocolate negro (aproximadamente 50% cacau)",
+    "kcalPer100g": 530.0
+  },
+  {
+    "id": "507",
+    "name": "Chocolate, pó",
+    "kcalPer100g": 469.0
+  },
+  {
+    "id": "70500004",
+    "name": "Chouriço de carne de porco, cru",
+    "kcalPer100g": 476.0
+  },
+  {
+    "id": "342",
+    "name": "Chouriço de carne de porco, gordo, cru",
+    "kcalPer100g": 544.0
+  },
+  {
+    "id": "343",
+    "name": "Chouriço de carne de porco, magro, cozido sem adição de sal",
+    "kcalPer100g": 334.0
+  },
+  {
+    "id": "341",
+    "name": "Chouriço de carne de porco, magro, cru",
+    "kcalPer100g": 409.0
+  },
+  {
+    "id": "344",
+    "name": "Chouriço de carne de porco, magro, grelhado",
+    "kcalPer100g": 343.0
+  },
+  {
+    "id": "346",
+    "name": "Chouriço de sangue cozido",
+    "kcalPer100g": 263.0
+  },
+  {
+    "id": "345",
+    "name": "Chouriço de sangue, cru",
+    "kcalPer100g": 328.0
+  },
+  {
+    "id": "1196",
+    "name": "Chuchu",
+    "kcalPer100g": 19.0
+  },
+  {
+    "id": "1900000082",
+    "name": "Chucrute",
+    "kcalPer100g": 15.0
+  },
+  {
+    "id": "85",
+    "name": "Clara de ovo de galinha, crua",
+    "kcalPer100g": 47.0
+  },
+  {
+    "id": "1900000055",
+    "name": "Clara de ovo de galinha, pasteurizada",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "642",
+    "name": "Clementina",
+    "kcalPer100g": 53.0
+  },
+  {
+    "id": "643",
+    "name": "Coco seco, ralado",
+    "kcalPer100g": 648.0
+  },
+  {
+    "id": "302",
+    "name": "Codorniz carne sem pele, crua",
+    "kcalPer100g": 119.0
+  },
+  {
+    "id": "301",
+    "name": "Codorniz com pele, crua",
+    "kcalPer100g": 170.0
+  },
+  {
+    "id": "303",
+    "name": "Codorniz com pele, estufada com azeite",
+    "kcalPer100g": 234.0
+  },
+  {
+    "id": "304",
+    "name": "Codorniz com pele, grelhada",
+    "kcalPer100g": 202.0
+  },
+  {
+    "id": "1149",
+    "name": "Coelho à caçador",
+    "kcalPer100g": 182.0
+  },
+  {
+    "id": "274",
+    "name": "Coelho cru",
+    "kcalPer100g": 117.0
+  },
+  {
+    "id": "1150",
+    "name": "Coelho em vinha de alhos",
+    "kcalPer100g": 174.0
+  },
+  {
+    "id": "70208006",
+    "name": "Coelho estufado",
+    "kcalPer100g": 211.0
+  },
+  {
+    "id": "276",
+    "name": "Coelho estufado com azeite",
+    "kcalPer100g": 218.0
+  },
+  {
+    "id": "275",
+    "name": "Coelho estufado com margarina",
+    "kcalPer100g": 205.0
+  },
+  {
+    "id": "7",
+    "name": "Coentros crus",
+    "kcalPer100g": 28.0
+  },
+  {
+    "id": "604",
+    "name": "Cogumelos enlatados, escorridos",
+    "kcalPer100g": 17.0
+  },
+  {
+    "id": "605",
+    "name": "Cogumelos fritos com óleo alimentar",
+    "kcalPer100g": 163.0
+  },
+  {
+    "id": "250028",
+    "name": "Cogumelos marron",
+    "kcalPer100g": 23.0
+  },
+  {
+    "id": "250029",
+    "name": "Cogumelos ostra (pleurotus)",
+    "kcalPer100g": 27.0
+  },
+  {
+    "id": "603",
+    "name": "Cogumelos, genérico",
+    "kcalPer100g": 18.0
+  },
+  {
+    "id": "1197",
+    "name": "Colorau",
+    "kcalPer100g": 358.0
+  },
+  {
+    "id": "1900000045",
+    "name": "Cominhos",
+    "kcalPer100g": 427.0
+  },
+  {
+    "id": "646",
+    "name": "Compota de alperce",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "629",
+    "name": "Compota de ameixa",
+    "kcalPer100g": 200.0
+  },
+  {
+    "id": "634",
+    "name": "Compota de ananás",
+    "kcalPer100g": 211.0
+  },
+  {
+    "id": "639",
+    "name": "Compota de cereja",
+    "kcalPer100g": 251.0
+  },
+  {
+    "id": "659",
+    "name": "Compota de laranja",
+    "kcalPer100g": 242.0
+  },
+  {
+    "id": "1210",
+    "name": "Condimento de mostarda",
+    "kcalPer100g": 158.0
+  },
+  {
+    "id": "827",
+    "name": "Corvina cozida",
+    "kcalPer100g": 95.0
+  },
+  {
+    "id": "826",
+    "name": "Corvina crua",
+    "kcalPer100g": 94.0
+  },
+  {
+    "id": "553",
+    "name": "Couve-branca cozida",
+    "kcalPer100g": 17.0
+  },
+  {
+    "id": "552",
+    "name": "Couve-branca crua",
+    "kcalPer100g": 28.0
+  },
+  {
+    "id": "555",
+    "name": "Couve-de-Bruxelas cozida",
+    "kcalPer100g": 34.0
+  },
+  {
+    "id": "554",
+    "name": "Couve-de-Bruxelas crua",
+    "kcalPer100g": 50.0
+  },
+  {
+    "id": "557",
+    "name": "Couve-flor cozida",
+    "kcalPer100g": 21.0
+  },
+  {
+    "id": "556",
+    "name": "Couve-flor crua",
+    "kcalPer100g": 34.0
+  },
+  {
+    "id": "559",
+    "name": "Couve-galega cozida",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "558",
+    "name": "Couve-galega crua",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "561",
+    "name": "Couve-lombarda cozida",
+    "kcalPer100g": 22.0
+  },
+  {
+    "id": "560",
+    "name": "Couve-lombarda crua",
+    "kcalPer100g": 26.0
+  },
+  {
+    "id": "563",
+    "name": "Couve-portuguesa cozida",
+    "kcalPer100g": 25.0
+  },
+  {
+    "id": "562",
+    "name": "Couve-portuguesa crua",
+    "kcalPer100g": 31.0
+  },
+  {
+    "id": "564",
+    "name": "Couve-roxa crua",
+    "kcalPer100g": 30.0
+  },
+  {
+    "id": "1020",
+    "name": "Cozido à portuguesa",
+    "kcalPer100g": 120.0
+  },
+  {
+    "id": "1021",
+    "name": "Cozido à portuguesa com grão",
+    "kcalPer100g": 259.0
+  },
+  {
+    "id": "1198",
+    "name": "Cravinho",
+    "kcalPer100g": 431.0
+  },
+  {
+    "id": "2122000014",
+    "name": "Creme culinário",
+    "kcalPer100g": 531.0
+  },
+  {
+    "id": "383",
+    "name": "Creme culinário líquido, 65% gordura, com sal",
+    "kcalPer100g": 588.0
+  },
+  {
+    "id": "1119",
+    "name": "Creme de camarão",
+    "kcalPer100g": 39.0
+  },
+  {
+    "id": "1118",
+    "name": "Creme de camarão com natas",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "1104",
+    "name": "Creme de ervilhas",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "372",
+    "name": "Creme para barrar de cacau e avelãs",
+    "kcalPer100g": 545.0
+  },
+  {
+    "id": "375",
+    "name": "Creme vegetal culinário, 75% gordura, sem sal",
+    "kcalPer100g": 677.0
+  },
+  {
+    "id": "250031",
+    "name": "Creme vegetal de soja para barrar",
+    "kcalPer100g": 444.0
+  },
+  {
+    "id": "250026",
+    "name": "Creme vegetal de soja para culinária (alternativa à nata)",
+    "kcalPer100g": 162.0
+  },
+  {
+    "id": "374",
+    "name": "Creme vegetal para barrar  72% gordura, 33% ácidos gordos polinsaturados",
+    "kcalPer100g": 651.0
+  },
+  {
+    "id": "376",
+    "name": "Creme vegetal para barrar 35% gordura, com fitosteróis",
+    "kcalPer100g": 328.0
+  },
+  {
+    "id": "378",
+    "name": "Creme vegetal para barrar 37% gordura",
+    "kcalPer100g": 343.0
+  },
+  {
+    "id": "399",
+    "name": "Creme vegetal para barrar 58% gordura, com cálcio",
+    "kcalPer100g": 525.0
+  },
+  {
+    "id": "398",
+    "name": "Creme vegetal para barrar 70% gordura, 53% ácidos gordos monoinsaturados",
+    "kcalPer100g": 632.0
+  },
+  {
+    "id": "377",
+    "name": "Creme vegetal para barrar 70% gordura, com sal",
+    "kcalPer100g": 632.0
+  },
+  {
+    "id": "480",
+    "name": "Croissant",
+    "kcalPer100g": 418.0
+  },
+  {
+    "id": "367",
+    "name": "Croquete",
+    "kcalPer100g": 316.0
+  },
+  {
+    "id": "298",
+    "name": "Cubo de carne de galinha para caldo",
+    "kcalPer100g": 236.0
+  },
+  {
+    "id": "297",
+    "name": "Cubo de carne de vaca para caldo",
+    "kcalPer100g": 183.0
+  },
+  {
+    "id": "621",
+    "name": "Curgete crua",
+    "kcalPer100g": 19.0
+  },
+  {
+    "id": "622",
+    "name": "Curgete frita com óleo alimentar",
+    "kcalPer100g": 64.0
+  },
+  {
+    "id": "649",
+    "name": "Dióspiro",
+    "kcalPer100g": 65.0
+  },
+  {
+    "id": "1900000110",
+    "name": "Dióspiro desidratado",
+    "kcalPer100g": 353.0
+  },
+  {
+    "id": "647",
+    "name": "Doce de alperce",
+    "kcalPer100g": 233.0
+  },
+  {
+    "id": "640",
+    "name": "Doce de cereja",
+    "kcalPer100g": 262.0
+  },
+  {
+    "id": "654",
+    "name": "Doce de framboesa",
+    "kcalPer100g": 242.0
+  },
+  {
+    "id": "656",
+    "name": "Doce de ginja",
+    "kcalPer100g": 263.0
+  },
+  {
+    "id": "664",
+    "name": "Doce de maçã",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "677",
+    "name": "Doce de morango",
+    "kcalPer100g": 245.0
+  },
+  {
+    "id": "687",
+    "name": "Doce de pêssego",
+    "kcalPer100g": 209.0
+  },
+  {
+    "id": "481",
+    "name": "Donut",
+    "kcalPer100g": 400.0
+  },
+  {
+    "id": "482",
+    "name": "Donut recheado com doce de fruta",
+    "kcalPer100g": 348.0
+  },
+  {
+    "id": "829",
+    "name": "Dourada cozida",
+    "kcalPer100g": 196.0
+  },
+  {
+    "id": "828",
+    "name": "Dourada crua",
+    "kcalPer100g": 167.0
+  },
+  {
+    "id": "830",
+    "name": "Dourada grelhada",
+    "kcalPer100g": 178.0
+  },
+  {
+    "id": "483",
+    "name": "Éclair de chocolate",
+    "kcalPer100g": 378.0
+  },
+  {
+    "id": "371",
+    "name": "Empada",
+    "kcalPer100g": 374.0
+  },
+  {
+    "id": "1056",
+    "name": "Empadão de atum",
+    "kcalPer100g": 234.0
+  },
+  {
+    "id": "1055",
+    "name": "Empadão de bacalhau",
+    "kcalPer100g": 118.0
+  },
+  {
+    "id": "1019",
+    "name": "Empadão de carne com manteiga",
+    "kcalPer100g": 134.0
+  },
+  {
+    "id": "1018",
+    "name": "Empadão de carne com margarina",
+    "kcalPer100g": 134.0
+  },
+  {
+    "id": "1017",
+    "name": "Empadão de carne guisada",
+    "kcalPer100g": 167.0
+  },
+  {
+    "id": "1054",
+    "name": "Empadão de pescada e camarão",
+    "kcalPer100g": 122.0
+  },
+  {
+    "id": "1900000025",
+    "name": "Endívia crua",
+    "kcalPer100g": 19.0
+  },
+  {
+    "id": "831",
+    "name": "Enguia crua",
+    "kcalPer100g": 303.0
+  },
+  {
+    "id": "832",
+    "name": "Enguia frita",
+    "kcalPer100g": 267.0
+  },
+  {
+    "id": "526",
+    "name": "Ervilhas secas cozidas",
+    "kcalPer100g": 114.0
+  },
+  {
+    "id": "525",
+    "name": "Ervilhas secas cruas",
+    "kcalPer100g": 330.0
+  },
+  {
+    "id": "574",
+    "name": "Ervilhas, grão, congeladas cozidas",
+    "kcalPer100g": 72.0
+  },
+  {
+    "id": "573",
+    "name": "Ervilhas, grão, congeladas cruas",
+    "kcalPer100g": 68.0
+  },
+  {
+    "id": "570",
+    "name": "Ervilhas, grão, frescas cozidas",
+    "kcalPer100g": 72.0
+  },
+  {
+    "id": "569",
+    "name": "Ervilhas, grão, frescas cruas",
+    "kcalPer100g": 76.0
+  },
+  {
+    "id": "1133",
+    "name": "Ervilhas, grão, frescas, estufadas",
+    "kcalPer100g": 113.0
+  },
+  {
+    "id": "572",
+    "name": "Ervilhas, vagens cozidas",
+    "kcalPer100g": 30.0
+  },
+  {
+    "id": "571",
+    "name": "Ervilhas, vagens cruas",
+    "kcalPer100g": 33.0
+  },
+  {
+    "id": "834",
+    "name": "Espadarte cru",
+    "kcalPer100g": 97.0
+  },
+  {
+    "id": "835",
+    "name": "Espadarte grelhado",
+    "kcalPer100g": 116.0
+  },
+  {
+    "id": "836",
+    "name": "Espadarte, bife estufado com azeite e vinho",
+    "kcalPer100g": 152.0
+  },
+  {
+    "id": "607",
+    "name": "Espargos cozidos",
+    "kcalPer100g": 16.0
+  },
+  {
+    "id": "606",
+    "name": "Espargos crus",
+    "kcalPer100g": 22.0
+  },
+  {
+    "id": "419",
+    "name": "Esparguete cozido",
+    "kcalPer100g": 102.0
+  },
+  {
+    "id": "417",
+    "name": "Esparguete cru",
+    "kcalPer100g": 360.0
+  },
+  {
+    "id": "420",
+    "name": "Esparguete estufado com cenoura e azeite",
+    "kcalPer100g": 121.0
+  },
+  {
+    "id": "421",
+    "name": "Esparguete estufado com cenoura e margarina",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "608",
+    "name": "Espinafres crus",
+    "kcalPer100g": 27.0
+  },
+  {
+    "id": "1200",
+    "name": "Estragão fresco",
+    "kcalPer100g": 55.0
+  },
+  {
+    "id": "1201",
+    "name": "Estragão seco",
+    "kcalPer100g": 363.0
+  },
+  {
+    "id": "2120000015",
+    "name": "Faneca crua",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "1900000075",
+    "name": "Farelo de trigo",
+    "kcalPer100g": 293.0
+  },
+  {
+    "id": "409",
+    "name": "Farinha de alfarroba",
+    "kcalPer100g": 368.0
+  },
+  {
+    "id": "1900000071",
+    "name": "Farinha de aveia",
+    "kcalPer100g": 363.0
+  },
+  {
+    "id": "60100015",
+    "name": "Farinha de centeio",
+    "kcalPer100g": 370.0
+  },
+  {
+    "id": "410",
+    "name": "Farinha de centeio tipo 70",
+    "kcalPer100g": 364.0
+  },
+  {
+    "id": "411",
+    "name": "Farinha de centeio tipo 85",
+    "kcalPer100g": 375.0
+  },
+  {
+    "id": "1900000070",
+    "name": "Farinha de cevada",
+    "kcalPer100g": 330.0
+  },
+  {
+    "id": "1900000077",
+    "name": "Farinha de espelta",
+    "kcalPer100g": 339.0
+  },
+  {
+    "id": "413",
+    "name": "Farinha de milho tipo 70",
+    "kcalPer100g": 359.0
+  },
+  {
+    "id": "471",
+    "name": "Farinha de pau (mandioca)",
+    "kcalPer100g": 350.0
+  },
+  {
+    "id": "60100002",
+    "name": "Farinha de trigo (valor médio tipo 150 e tipo 55)",
+    "kcalPer100g": 349.0
+  },
+  {
+    "id": "230002",
+    "name": "Farinha de trigo com fermento",
+    "kcalPer100g": 343.0
+  },
+  {
+    "id": "416",
+    "name": "Farinha de trigo integral",
+    "kcalPer100g": 338.0
+  },
+  {
+    "id": "414",
+    "name": "Farinha de trigo tipo 150",
+    "kcalPer100g": 352.0
+  },
+  {
+    "id": "415",
+    "name": "Farinha de trigo tipo 55",
+    "kcalPer100g": 344.0
+  },
+  {
+    "id": "230003",
+    "name": "Farinha de trigo tipo 65",
+    "kcalPer100g": 341.0
+  },
+  {
+    "id": "945",
+    "name": "Farinha láctea 5 frutos tipo \"Cerelac\" (com farinha de trigo)",
+    "kcalPer100g": 408.0
+  },
+  {
+    "id": "946",
+    "name": "Farinha láctea maçãs tipo \"Cerelac\" (com farinha de trigo)",
+    "kcalPer100g": 412.0
+  },
+  {
+    "id": "944",
+    "name": "Farinha láctea tipo \"Cerelac\" (com farinha de trigo)",
+    "kcalPer100g": 416.0
+  },
+  {
+    "id": "348",
+    "name": "Farinheira cozida",
+    "kcalPer100g": 404.0
+  },
+  {
+    "id": "347",
+    "name": "Farinheira crua",
+    "kcalPer100g": 497.0
+  },
+  {
+    "id": "1132",
+    "name": "Favada à portuguesa",
+    "kcalPer100g": 130.0
+  },
+  {
+    "id": "576",
+    "name": "Favas frescas cozidas",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "575",
+    "name": "Favas frescas cruas",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "527",
+    "name": "Favas secas cruas",
+    "kcalPer100g": 301.0
+  },
+  {
+    "id": "528",
+    "name": "Favas secas, demolhadas, cozidas",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "578",
+    "name": "Feijão-verde fresco cozido",
+    "kcalPer100g": 27.0
+  },
+  {
+    "id": "577",
+    "name": "Feijão-verde fresco cru",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "532",
+    "name": "Feijão branco, demolhado, cozido",
+    "kcalPer100g": 102.0
+  },
+  {
+    "id": "531",
+    "name": "Feijão branco, seco, cru",
+    "kcalPer100g": 308.0
+  },
+  {
+    "id": "220024",
+    "name": "Feijão catarino, seco, cru",
+    "kcalPer100g": 302.0
+  },
+  {
+    "id": "240003",
+    "name": "Feijão catarino, seco, demolhado, cozido",
+    "kcalPer100g": 88.0
+  },
+  {
+    "id": "1202",
+    "name": "Feijão encarnado, seco, cru",
+    "kcalPer100g": 310.0
+  },
+  {
+    "id": "240002",
+    "name": "Feijão encarnado, seco, demolhado, cozido",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "529",
+    "name": "Feijão frade, seco, cru",
+    "kcalPer100g": 339.0
+  },
+  {
+    "id": "530",
+    "name": "Feijão frade, seco, demolhado, cozido",
+    "kcalPer100g": 123.0
+  },
+  {
+    "id": "534",
+    "name": "Feijão manteiga, demolhado, cozido",
+    "kcalPer100g": 99.0
+  },
+  {
+    "id": "533",
+    "name": "Feijão manteiga, seco, cru",
+    "kcalPer100g": 313.0
+  },
+  {
+    "id": "220025",
+    "name": "Feijão preto, seco, cru",
+    "kcalPer100g": 318.0
+  },
+  {
+    "id": "240001",
+    "name": "Feijão preto, seco, demolhado, cozido",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "1900000011",
+    "name": "Feijoa (polpa)",
+    "kcalPer100g": 52.0
+  },
+  {
+    "id": "950",
+    "name": "Feijoada com carne de porco",
+    "kcalPer100g": 187.0
+  },
+  {
+    "id": "951",
+    "name": "Feijoada com carne de porco e de vaca",
+    "kcalPer100g": 191.0
+  },
+  {
+    "id": "1023",
+    "name": "Feijoada com enchidos e ovos",
+    "kcalPer100g": 240.0
+  },
+  {
+    "id": "779",
+    "name": "Fermento em pó",
+    "kcalPer100g": 156.0
+  },
+  {
+    "id": "777",
+    "name": "Fermento fresco de padeiro",
+    "kcalPer100g": 78.0
+  },
+  {
+    "id": "778",
+    "name": "Fermento seco de padeiro",
+    "kcalPer100g": 228.0
+  },
+  {
+    "id": "1232",
+    "name": "Fiambre de aves",
+    "kcalPer100g": 83.0
+  },
+  {
+    "id": "1231",
+    "name": "Fiambre de porco",
+    "kcalPer100g": 111.0
+  },
+  {
+    "id": "1168",
+    "name": "Fiambre, pá",
+    "kcalPer100g": 112.0
+  },
+  {
+    "id": "1167",
+    "name": "Fiambre, peito de frango",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "1166",
+    "name": "Fiambre, peito de peru",
+    "kcalPer100g": 85.0
+  },
+  {
+    "id": "1169",
+    "name": "Fiambre, perna",
+    "kcalPer100g": 111.0
+  },
+  {
+    "id": "650",
+    "name": "Figo (5 variedades)",
+    "kcalPer100g": 79.0
+  },
+  {
+    "id": "651",
+    "name": "Figo cristalizado",
+    "kcalPer100g": 295.0
+  },
+  {
+    "id": "652",
+    "name": "Figo seco",
+    "kcalPer100g": 276.0
+  },
+  {
+    "id": "1900000029",
+    "name": "Fisális",
+    "kcalPer100g": 68.0
+  },
+  {
+    "id": "445",
+    "name": "Flocos de arroz",
+    "kcalPer100g": 379.0
+  },
+  {
+    "id": "444",
+    "name": "Flocos de aveia",
+    "kcalPer100g": 366.0
+  },
+  {
+    "id": "1900000072",
+    "name": "Flocos de centeio",
+    "kcalPer100g": 352.0
+  },
+  {
+    "id": "447",
+    "name": "Flocos de cereais e frutos secos tipo \"Muesli\"",
+    "kcalPer100g": 388.0
+  },
+  {
+    "id": "1900000073",
+    "name": "Flocos de cevada",
+    "kcalPer100g": 324.0
+  },
+  {
+    "id": "443",
+    "name": "Flocos de milho tipo \"Corn Flakes\"",
+    "kcalPer100g": 374.0
+  },
+  {
+    "id": "446",
+    "name": "Flocos de trigo",
+    "kcalPer100g": 373.0
+  },
+  {
+    "id": "947",
+    "name": "Flocos de trigo com figos tipo \"Nestum\"",
+    "kcalPer100g": 370.0
+  },
+  {
+    "id": "948",
+    "name": "Flocos de trigo com mel tipo \"Nestum\"",
+    "kcalPer100g": 385.0
+  },
+  {
+    "id": "448",
+    "name": "Flocos de trigo e arroz enriquecidos com vitaminas, cálcio e ferro",
+    "kcalPer100g": 372.0
+  },
+  {
+    "id": "449",
+    "name": "Flocos de trigo integral tipo \"All-Bran Flakes\"",
+    "kcalPer100g": 349.0
+  },
+  {
+    "id": "1900000114",
+    "name": "Flor de sal",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "1900000027",
+    "name": "Folhas de rabanete cruas",
+    "kcalPer100g": 39.0
+  },
+  {
+    "id": "653",
+    "name": "Framboesa",
+    "kcalPer100g": 49.0
+  },
+  {
+    "id": "1900000106",
+    "name": "Framboesa desidratada",
+    "kcalPer100g": 293.0
+  },
+  {
+    "id": "1073",
+    "name": "Francesinha, com molho",
+    "kcalPer100g": 249.0
+  },
+  {
+    "id": "251",
+    "name": "Frango (1/4) peito e asa com pele, cozidos",
+    "kcalPer100g": 202.0
+  },
+  {
+    "id": "253",
+    "name": "Frango (1/4) peito e asa com pele, estufados com azeite e margarina",
+    "kcalPer100g": 204.0
+  },
+  {
+    "id": "252",
+    "name": "Frango (1/4) peito e asa com pele, estufados com margarina",
+    "kcalPer100g": 201.0
+  },
+  {
+    "id": "254",
+    "name": "Frango (1/4) peito e asa com pele, estufados sem molho",
+    "kcalPer100g": 223.0
+  },
+  {
+    "id": "255",
+    "name": "Frango (1/4) peito e asa com pele, grelhados",
+    "kcalPer100g": 235.0
+  },
+  {
+    "id": "261",
+    "name": "Frango (1/4) perna com costa e pele, assada sem molho",
+    "kcalPer100g": 231.0
+  },
+  {
+    "id": "256",
+    "name": "Frango (1/4) perna com costa e pele, cozida",
+    "kcalPer100g": 197.0
+  },
+  {
+    "id": "257",
+    "name": "Frango (1/4) perna com costa e pele, estufada com azeite e margarina",
+    "kcalPer100g": 203.0
+  },
+  {
+    "id": "258",
+    "name": "Frango (1/4) perna com costa e pele, estufada com margarina",
+    "kcalPer100g": 200.0
+  },
+  {
+    "id": "259",
+    "name": "Frango (1/4) perna com costa e pele, estufada sem molho",
+    "kcalPer100g": 215.0
+  },
+  {
+    "id": "14",
+    "name": "Frango (1/4), peito e asa com pele, crus",
+    "kcalPer100g": 196.0
+  },
+  {
+    "id": "15",
+    "name": "Frango (1/4), perna com costa e pele, crua",
+    "kcalPer100g": 195.0
+  },
+  {
+    "id": "260",
+    "name": "Frango (1/4), perna com costa e pele, grelhada",
+    "kcalPer100g": 231.0
+  },
+  {
+    "id": "245",
+    "name": "Frango inteiro com pele, assado sem molho",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "240",
+    "name": "Frango inteiro com pele, cozido",
+    "kcalPer100g": 204.0
+  },
+  {
+    "id": "16",
+    "name": "Frango inteiro com pele, cru",
+    "kcalPer100g": 201.0
+  },
+  {
+    "id": "242",
+    "name": "Frango inteiro com pele, estufado com azeite e margarina",
+    "kcalPer100g": 224.0
+  },
+  {
+    "id": "241",
+    "name": "Frango inteiro com pele, estufado com margarina",
+    "kcalPer100g": 221.0
+  },
+  {
+    "id": "243",
+    "name": "Frango inteiro com pele, estufado sem molho",
+    "kcalPer100g": 233.0
+  },
+  {
+    "id": "244",
+    "name": "Frango inteiro com pele, grelhado",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "246",
+    "name": "Frango inteiro sem pele, cozido",
+    "kcalPer100g": 169.0
+  },
+  {
+    "id": "17",
+    "name": "Frango inteiro sem pele, cru",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "248",
+    "name": "Frango inteiro sem pele, estufado com azeite e margarina",
+    "kcalPer100g": 129.0
+  },
+  {
+    "id": "247",
+    "name": "Frango inteiro sem pele, estufado com margarina",
+    "kcalPer100g": 126.0
+  },
+  {
+    "id": "249",
+    "name": "Frango inteiro sem pele, estufado sem molho",
+    "kcalPer100g": 185.0
+  },
+  {
+    "id": "250",
+    "name": "Frango inteiro sem pele, grelhado",
+    "kcalPer100g": 168.0
+  },
+  {
+    "id": "268",
+    "name": "Frango, peito com pele estufado com azeite e margarina",
+    "kcalPer100g": 189.0
+  },
+  {
+    "id": "267",
+    "name": "Frango, peito com pele estufado com margarina",
+    "kcalPer100g": 187.0
+  },
+  {
+    "id": "266",
+    "name": "Frango, peito com pele, cozido",
+    "kcalPer100g": 194.0
+  },
+  {
+    "id": "10",
+    "name": "Frango, peito com pele, cru",
+    "kcalPer100g": 177.0
+  },
+  {
+    "id": "269",
+    "name": "Frango, peito com pele, estufado sem molho",
+    "kcalPer100g": 212.0
+  },
+  {
+    "id": "272",
+    "name": "Frango, peito sem pele estufado com azeite e margarina",
+    "kcalPer100g": 124.0
+  },
+  {
+    "id": "271",
+    "name": "Frango, peito sem pele estufado com margarina",
+    "kcalPer100g": 121.0
+  },
+  {
+    "id": "270",
+    "name": "Frango, peito sem pele, cozido",
+    "kcalPer100g": 148.0
+  },
+  {
+    "id": "11",
+    "name": "Frango, peito sem pele, cru",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "273",
+    "name": "Frango, peito sem pele, estufado sem molho",
+    "kcalPer100g": 169.0
+  },
+  {
+    "id": "13",
+    "name": "Frango, pele crua",
+    "kcalPer100g": 474.0
+  },
+  {
+    "id": "262",
+    "name": "Frango, perna sem pele, cozida",
+    "kcalPer100g": 147.0
+  },
+  {
+    "id": "12",
+    "name": "Frango, perna sem pele, crua",
+    "kcalPer100g": 111.0
+  },
+  {
+    "id": "264",
+    "name": "Frango, perna sem pele, estufada com azeite e margarina",
+    "kcalPer100g": 124.0
+  },
+  {
+    "id": "263",
+    "name": "Frango, perna sem pele, estufada com margarina",
+    "kcalPer100g": 121.0
+  },
+  {
+    "id": "265",
+    "name": "Frango, perna sem pele, estufada sem molho",
+    "kcalPer100g": 180.0
+  },
+  {
+    "id": "1203",
+    "name": "Funcho fresco",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "1900000002",
+    "name": "Galinha de angola com pele, crua",
+    "kcalPer100g": 152.0
+  },
+  {
+    "id": "1900000007",
+    "name": "Galinha, coração cru",
+    "kcalPer100g": 149.0
+  },
+  {
+    "id": "1900000001",
+    "name": "Galinha, fígado cru",
+    "kcalPer100g": 92.0
+  },
+  {
+    "id": "1920000020",
+    "name": "Gamba crua",
+    "kcalPer100g": 88.0
+  },
+  {
+    "id": "900",
+    "name": "Garoupa cozida",
+    "kcalPer100g": 101.0
+  },
+  {
+    "id": "899",
+    "name": "Garoupa crua",
+    "kcalPer100g": 95.0
+  },
+  {
+    "id": "901",
+    "name": "Garoupa grelhada",
+    "kcalPer100g": 121.0
+  },
+  {
+    "id": "518",
+    "name": "Gelado caseiro com bolachas e natas",
+    "kcalPer100g": 358.0
+  },
+  {
+    "id": "519",
+    "name": "Gelado caseiro com palitos la Reine",
+    "kcalPer100g": 263.0
+  },
+  {
+    "id": "513",
+    "name": "Gelado de água (sorvete)",
+    "kcalPer100g": 132.0
+  },
+  {
+    "id": "514",
+    "name": "Gelado de leite",
+    "kcalPer100g": 199.0
+  },
+  {
+    "id": "515",
+    "name": "Gelatina desidratada (pó ou folha)",
+    "kcalPer100g": 349.0
+  },
+  {
+    "id": "516",
+    "name": "Gelatina preparada com ananás em conserva",
+    "kcalPer100g": 97.0
+  },
+  {
+    "id": "517",
+    "name": "Gelatina preparada com laranja e sumo de laranja",
+    "kcalPer100g": 84.0
+  },
+  {
+    "id": "660",
+    "name": "Geleia de casca de laranja",
+    "kcalPer100g": 275.0
+  },
+  {
+    "id": "84",
+    "name": "Gema de ovo de galinha, crua",
+    "kcalPer100g": 342.0
+  },
+  {
+    "id": "1900000056",
+    "name": "Gema de ovo de galinha, pasteurizada",
+    "kcalPer100g": 294.0
+  },
+  {
+    "id": "1204",
+    "name": "Gengibre fresco",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "1900000076",
+    "name": "Gérmen de trigo",
+    "kcalPer100g": 391.0
+  },
+  {
+    "id": "731",
+    "name": "Gin - Rum- Whisky",
+    "kcalPer100g": 222.0
+  },
+  {
+    "id": "655",
+    "name": "Ginja",
+    "kcalPer100g": 57.0
+  },
+  {
+    "id": "1900000095",
+    "name": "Goiaba crua, polpa",
+    "kcalPer100g": 41.0
+  },
+  {
+    "id": "840",
+    "name": "Goraz assado com cebola, tomate, azeite e óleo alimentar",
+    "kcalPer100g": 117.0
+  },
+  {
+    "id": "838",
+    "name": "Goraz cozido",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "837",
+    "name": "Goraz cru",
+    "kcalPer100g": 100.0
+  },
+  {
+    "id": "839",
+    "name": "Goraz grelhado",
+    "kcalPer100g": 118.0
+  },
+  {
+    "id": "1126",
+    "name": "Goraz no forno",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "536",
+    "name": "Grão-de-bico, demolhado, cozido",
+    "kcalPer100g": 119.0
+  },
+  {
+    "id": "535",
+    "name": "Grão-de-bico, seco, cru",
+    "kcalPer100g": 327.0
+  },
+  {
+    "id": "566",
+    "name": "Grelos de couve cozidos",
+    "kcalPer100g": 22.0
+  },
+  {
+    "id": "565",
+    "name": "Grelos de couve crus",
+    "kcalPer100g": 28.0
+  },
+  {
+    "id": "568",
+    "name": "Grelos de nabo cozidos",
+    "kcalPer100g": 20.0
+  },
+  {
+    "id": "567",
+    "name": "Grelos de nabo crus",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "439",
+    "name": "Gressino",
+    "kcalPer100g": 396.0
+  },
+  {
+    "id": "260002",
+    "name": "Grilo doméstico, pó",
+    "kcalPer100g": 506.0
+  },
+  {
+    "id": "1900000099",
+    "name": "Groselha",
+    "kcalPer100g": 52.0
+  },
+  {
+    "id": "291",
+    "name": "Hambúrguer de feijão manteiga frito com azeite",
+    "kcalPer100g": 169.0
+  },
+  {
+    "id": "292",
+    "name": "Hambúrguer de feijão manteiga frito com óleo de milho",
+    "kcalPer100g": 169.0
+  },
+  {
+    "id": "1900000031",
+    "name": "Hortelã fresca",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "844",
+    "name": "Imperador assado com cebola, tomate, azeite e óleo alimentar",
+    "kcalPer100g": 94.0
+  },
+  {
+    "id": "842",
+    "name": "Imperador cozido",
+    "kcalPer100g": 84.0
+  },
+  {
+    "id": "841",
+    "name": "Imperador cru",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "843",
+    "name": "Imperador grelhado",
+    "kcalPer100g": 97.0
+  },
+  {
+    "id": "1900000059",
+    "name": "Inhame cru",
+    "kcalPer100g": 114.0
+  },
+  {
+    "id": "82",
+    "name": "Iogurte gordo, aromatizado, açucarado",
+    "kcalPer100g": 83.0
+  },
+  {
+    "id": "81",
+    "name": "Iogurte gordo, com polpa e/ou pedaços de fruta e cereais açucarado",
+    "kcalPer100g": 114.0
+  },
+  {
+    "id": "80",
+    "name": "Iogurte gordo, com polpa e/ou pedaços de fruta, açucarado",
+    "kcalPer100g": 96.0
+  },
+  {
+    "id": "2122000009",
+    "name": "Iogurte grego com fruta açucarado",
+    "kcalPer100g": 113.0
+  },
+  {
+    "id": "2122000015",
+    "name": "Iogurte grego magro natural",
+    "kcalPer100g": 56.0
+  },
+  {
+    "id": "2122000008",
+    "name": "Iogurte grego natural",
+    "kcalPer100g": 85.0
+  },
+  {
+    "id": "77",
+    "name": "Iogurte líquido magro, aromatizado, açucarado",
+    "kcalPer100g": 62.0
+  },
+  {
+    "id": "73",
+    "name": "Iogurte líquido meio gordo, aromatizado, açucarado",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "71",
+    "name": "Iogurte líquido meio gordo, natural, açucarado",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "78",
+    "name": "Iogurte magro, aromatizado, açucarado",
+    "kcalPer100g": 69.0
+  },
+  {
+    "id": "69",
+    "name": "Iogurte magro, com cereais e edulcorantes",
+    "kcalPer100g": 50.0
+  },
+  {
+    "id": "79",
+    "name": "Iogurte magro, natural",
+    "kcalPer100g": 42.0
+  },
+  {
+    "id": "68",
+    "name": "Iogurte magro, natural, com edulcorantes",
+    "kcalPer100g": 47.0
+  },
+  {
+    "id": "1900000102",
+    "name": "Iogurte meio gordo, aromatizado, açucarado",
+    "kcalPer100g": 79.0
+  },
+  {
+    "id": "75",
+    "name": "Iogurte meio gordo, com polpa e/ou pedaços de fruta, açucarado",
+    "kcalPer100g": 92.0
+  },
+  {
+    "id": "76",
+    "name": "Iogurte meio gordo, natural",
+    "kcalPer100g": 54.0
+  },
+  {
+    "id": "70",
+    "name": "Iogurte meio gordo, natural, açucarado",
+    "kcalPer100g": 91.0
+  },
+  {
+    "id": "1920000013",
+    "name": "Iogurte sem lactose enriquecido em proteína, magro, aromatizado, com pedaços e/ou polpa de fruta, açucarado",
+    "kcalPer100g": 76.0
+  },
+  {
+    "id": "1920000004",
+    "name": "Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, açucarado",
+    "kcalPer100g": 78.0
+  },
+  {
+    "id": "1920000005",
+    "name": "Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes",
+    "kcalPer100g": 34.0
+  },
+  {
+    "id": "1920000003",
+    "name": "Iogurte sem lactose líquido, meio gordo, aromatizado, açucarado",
+    "kcalPer100g": 71.0
+  },
+  {
+    "id": "1920000001",
+    "name": "Iogurte sem lactose líquido, meio gordo, aromatizado, com polpa de fruta, açucarado",
+    "kcalPer100g": 73.0
+  },
+  {
+    "id": "1920000002",
+    "name": "Iogurte sem lactose líquido, meio gordo, natural, açucarado",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "1920000012",
+    "name": "Iogurte sem lactose magro, aromatizado, com pedaços e/ou polpa de fruta, com edulcorantes",
+    "kcalPer100g": 42.0
+  },
+  {
+    "id": "1920000011",
+    "name": "Iogurte sem lactose magro, natural",
+    "kcalPer100g": 41.0
+  },
+  {
+    "id": "1920000007",
+    "name": "Iogurte sem lactose meio gordo, aromatizado, açucarado",
+    "kcalPer100g": 76.0
+  },
+  {
+    "id": "1920000009",
+    "name": "Iogurte sem lactose meio gordo, aromatizado, com frutos secos e cereais, açucarado",
+    "kcalPer100g": 98.0
+  },
+  {
+    "id": "1920000008",
+    "name": "Iogurte sem lactose meio gordo, aromatizado, com pedaços e/ou polpa de fruta, açucarado",
+    "kcalPer100g": 83.0
+  },
+  {
+    "id": "1920000010",
+    "name": "Iogurte sem lactose meio gordo, natural",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "1920000006",
+    "name": "Iogurte sem lactose meio gordo, natural, açucarado",
+    "kcalPer100g": 78.0
+  },
+  {
+    "id": "1900000006",
+    "name": "Javali cru",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "484",
+    "name": "Jesuíta",
+    "kcalPer100g": 518.0
+  },
+  {
+    "id": "250011",
+    "name": "Kefir de cabra, magro, natural, sólido",
+    "kcalPer100g": 36.0
+  },
+  {
+    "id": "250010",
+    "name": "Kefir de cabra, natural, sólido",
+    "kcalPer100g": 68.0
+  },
+  {
+    "id": "250006",
+    "name": "Kefir, magro, natural, sólido",
+    "kcalPer100g": 30.0
+  },
+  {
+    "id": "250005",
+    "name": "Kefir, natural, liquido",
+    "kcalPer100g": 62.0
+  },
+  {
+    "id": "250009",
+    "name": "Kefir, natural, sólido",
+    "kcalPer100g": 65.0
+  },
+  {
+    "id": "250008",
+    "name": "Kefir, parcialmente desnatado, açucarado, aromatizado, liquido",
+    "kcalPer100g": 69.0
+  },
+  {
+    "id": "250007",
+    "name": "Kefir, parcialmente desnatado, aromatizado, liquido",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "250004",
+    "name": "Kefir, parcialmente desnatado, natural, liquido",
+    "kcalPer100g": 45.0
+  },
+  {
+    "id": "921",
+    "name": "Lagosta cozida",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "2120000016",
+    "name": "Lagosta crua",
+    "kcalPer100g": 79.0
+  },
+  {
+    "id": "923",
+    "name": "Lagostim cozido",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "922",
+    "name": "Lagostim cru",
+    "kcalPer100g": 89.0
+  },
+  {
+    "id": "1900000101",
+    "name": "Lampreia crua",
+    "kcalPer100g": 314.0
+  },
+  {
+    "id": "2120000019",
+    "name": "Lapas cruas",
+    "kcalPer100g": 66.0
+  },
+  {
+    "id": "658",
+    "name": "Laranja (3 variedades)",
+    "kcalPer100g": 52.0
+  },
+  {
+    "id": "260003",
+    "name": "Larvas de Tenebrio molitor, desidratadas",
+    "kcalPer100g": 500.0
+  },
+  {
+    "id": "1153",
+    "name": "Lasanha à bolonhesa",
+    "kcalPer100g": 183.0
+  },
+  {
+    "id": "1900000004",
+    "name": "Lebre crua",
+    "kcalPer100g": 113.0
+  },
+  {
+    "id": "230004",
+    "name": "Leite achocolatado, sem lactose",
+    "kcalPer100g": 58.0
+  },
+  {
+    "id": "29",
+    "name": "Leite achocolatado, UHT",
+    "kcalPer100g": 65.0
+  },
+  {
+    "id": "34",
+    "name": "Leite condensado",
+    "kcalPer100g": 338.0
+  },
+  {
+    "id": "500",
+    "name": "Leite creme",
+    "kcalPer100g": 163.0
+  },
+  {
+    "id": "19",
+    "name": "Leite de cabra cru",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "1205",
+    "name": "Leite de coco, enlatado",
+    "kcalPer100g": 185.0
+  },
+  {
+    "id": "20",
+    "name": "Leite de ovelha cru",
+    "kcalPer100g": 93.0
+  },
+  {
+    "id": "35",
+    "name": "Leite evaporado",
+    "kcalPer100g": 136.0
+  },
+  {
+    "id": "1900000067",
+    "name": "Leite fermentado (Bifidus) gordo, natural",
+    "kcalPer100g": 67.0
+  },
+  {
+    "id": "1920000016",
+    "name": "Leite fermentado (Bifidus) sem lactose enriquecido com fibra, magro, aromatizado, com pedaços e/ou polpa de fruta, com sementes e/ou cereais, com frutos secos e/ou de casca rija, com edulcorantes",
+    "kcalPer100g": 57.0
+  },
+  {
+    "id": "1920000017",
+    "name": "Leite fermentado (Bifidus) sem lactose líquido, meio gordo, aromatizado, com pedaços e/ou polpa de fruta, açucarado",
+    "kcalPer100g": 71.0
+  },
+  {
+    "id": "1920000018",
+    "name": "Leite fermentado (Bifidus) sem lactose magro, natural, com edulcorantes",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "1920000014",
+    "name": "Leite fermentado (Bifidus) sem lactose, gordo, natural",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "1920000015",
+    "name": "Leite fermentado (Bifidus) sem lactose, magro, aromatizado, com pedaços e/ou polpa de fruta e/ou hortícolas, açucarado, com edulcorantes",
+    "kcalPer100g": 57.0
+  },
+  {
+    "id": "30",
+    "name": "Leite gordo especial, pasteurizado",
+    "kcalPer100g": 62.0
+  },
+  {
+    "id": "1900000064",
+    "name": "Leite gordo sem lactose, enriquecido com vitaminas A, D, E e B9 (ácido fólico), UHT",
+    "kcalPer100g": 62.0
+  },
+  {
+    "id": "22",
+    "name": "Leite gordo, pasteurizado",
+    "kcalPer100g": 62.0
+  },
+  {
+    "id": "31",
+    "name": "Leite gordo, pó",
+    "kcalPer100g": 495.0
+  },
+  {
+    "id": "23",
+    "name": "Leite gordo, UHT",
+    "kcalPer100g": 62.0
+  },
+  {
+    "id": "38",
+    "name": "Leite humano",
+    "kcalPer100g": 66.0
+  },
+  {
+    "id": "36",
+    "name": "Leite humano, colostro",
+    "kcalPer100g": 60.0
+  },
+  {
+    "id": "37",
+    "name": "Leite humano, transição",
+    "kcalPer100g": 66.0
+  },
+  {
+    "id": "1233",
+    "name": "Leite magro de pastagem, UHT",
+    "kcalPer100g": 33.0
+  },
+  {
+    "id": "230005",
+    "name": "Leite magro sem lactose, enriquecido com proteína, aromatizado, UHT",
+    "kcalPer100g": 55.0
+  },
+  {
+    "id": "1900000062",
+    "name": "Leite magro sem lactose, UHT",
+    "kcalPer100g": 36.0
+  },
+  {
+    "id": "33",
+    "name": "Leite magro, pó",
+    "kcalPer100g": 359.0
+  },
+  {
+    "id": "27",
+    "name": "Leite magro, UHT",
+    "kcalPer100g": 35.0
+  },
+  {
+    "id": "1234",
+    "name": "Leite meio gordo de pastagem, UHT",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "1900000063",
+    "name": "Leite meio gordo sem lactose, UHT",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "32",
+    "name": "Leite meio gordo, pó",
+    "kcalPer100g": 427.0
+  },
+  {
+    "id": "25",
+    "name": "Leite meio gordo, UHT",
+    "kcalPer100g": 47.0
+  },
+  {
+    "id": "220028",
+    "name": "Lentilhas vermelhas, secas, cruas",
+    "kcalPer100g": 327.0
+  },
+  {
+    "id": "537",
+    "name": "Lentilhas, secas, cruas",
+    "kcalPer100g": 321.0
+  },
+  {
+    "id": "538",
+    "name": "Lentilhas, secas, demolhadas, cozidas",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "1900000091",
+    "name": "Lichia fresca",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "734",
+    "name": "Licor beneditino",
+    "kcalPer100g": 352.0
+  },
+  {
+    "id": "733",
+    "name": "Licor de anis",
+    "kcalPer100g": 385.0
+  },
+  {
+    "id": "732",
+    "name": "Licor de ginja",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "735",
+    "name": "Licor simples",
+    "kcalPer100g": 294.0
+  },
+  {
+    "id": "1900000096",
+    "name": "Lima",
+    "kcalPer100g": 31.0
+  },
+  {
+    "id": "661",
+    "name": "Limão",
+    "kcalPer100g": 31.0
+  },
+  {
+    "id": "845",
+    "name": "Linguado cru",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "847",
+    "name": "Linguado frito",
+    "kcalPer100g": 164.0
+  },
+  {
+    "id": "846",
+    "name": "Linguado grelhado",
+    "kcalPer100g": 94.0
+  },
+  {
+    "id": "349",
+    "name": "Linguiça",
+    "kcalPer100g": 437.0
+  },
+  {
+    "id": "914",
+    "name": "Lula crua",
+    "kcalPer100g": 71.0
+  },
+  {
+    "id": "916",
+    "name": "Lula estufada com cebola, tomate e azeite",
+    "kcalPer100g": 135.0
+  },
+  {
+    "id": "915",
+    "name": "Lula grelhada",
+    "kcalPer100g": 144.0
+  },
+  {
+    "id": "40200010",
+    "name": "Maçã (média com e sem casca)",
+    "kcalPer100g": 57.0
+  },
+  {
+    "id": "668",
+    "name": "Maçã assada com açúcar",
+    "kcalPer100g": 106.0
+  },
+  {
+    "id": "669",
+    "name": "Maçã assada sem açúcar",
+    "kcalPer100g": 75.0
+  },
+  {
+    "id": "662",
+    "name": "Maçã com casca",
+    "kcalPer100g": 64.0
+  },
+  {
+    "id": "666",
+    "name": "Maçã cozida com açúcar",
+    "kcalPer100g": 77.0
+  },
+  {
+    "id": "667",
+    "name": "Maçã cozida sem açúcar",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "1900000112",
+    "name": "Maçã desidratada",
+    "kcalPer100g": 354.0
+  },
+  {
+    "id": "665",
+    "name": "Maçã seca",
+    "kcalPer100g": 257.0
+  },
+  {
+    "id": "663",
+    "name": "Maçã sem casca",
+    "kcalPer100g": 61.0
+  },
+  {
+    "id": "487",
+    "name": "Madalena",
+    "kcalPer100g": 443.0
+  },
+  {
+    "id": "926",
+    "name": "Maionese caseira, com ovo e azeite",
+    "kcalPer100g": 657.0
+  },
+  {
+    "id": "927",
+    "name": "Maionese caseira, com ovo e óleo de soja",
+    "kcalPer100g": 644.0
+  },
+  {
+    "id": "1900000013",
+    "name": "Malagueta vermelha fresca",
+    "kcalPer100g": 31.0
+  },
+  {
+    "id": "260001",
+    "name": "Malagueta vermelha, desidratada",
+    "kcalPer100g": 317.0
+  },
+  {
+    "id": "1900000058",
+    "name": "Mandioca crua",
+    "kcalPer100g": 145.0
+  },
+  {
+    "id": "670",
+    "name": "Manga",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "1900000107",
+    "name": "Manga desidratada",
+    "kcalPer100g": 340.0
+  },
+  {
+    "id": "1900000030",
+    "name": "Manjericão fresco",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "1206",
+    "name": "Manjericão seco",
+    "kcalPer100g": 244.0
+  },
+  {
+    "id": "1208",
+    "name": "Manjerona seca",
+    "kcalPer100g": 320.0
+  },
+  {
+    "id": "385",
+    "name": "Manteiga com sal",
+    "kcalPer100g": 739.0
+  },
+  {
+    "id": "386",
+    "name": "Manteiga sem sal",
+    "kcalPer100g": 750.0
+  },
+  {
+    "id": "1900000009",
+    "name": "Maracujá",
+    "kcalPer100g": 52.0
+  },
+  {
+    "id": "100300002",
+    "name": "Margarina",
+    "kcalPer100g": 740.0
+  },
+  {
+    "id": "384",
+    "name": "Margarina 3/4, de girassol",
+    "kcalPer100g": 524.0
+  },
+  {
+    "id": "380",
+    "name": "Margarina culinária para folhados, com sal",
+    "kcalPer100g": 772.0
+  },
+  {
+    "id": "379",
+    "name": "Margarina industrial para pastelaria, com sal",
+    "kcalPer100g": 727.0
+  },
+  {
+    "id": "381",
+    "name": "Margarina vegetal culinária, 80% gordura, com sal",
+    "kcalPer100g": 722.0
+  },
+  {
+    "id": "382",
+    "name": "Margarina vegetal culinária, com alho e sal",
+    "kcalPer100g": 692.0
+  },
+  {
+    "id": "672",
+    "name": "Marmelada",
+    "kcalPer100g": 261.0
+  },
+  {
+    "id": "671",
+    "name": "Marmelo",
+    "kcalPer100g": 53.0
+  },
+  {
+    "id": "849",
+    "name": "Maruca cozida",
+    "kcalPer100g": 73.0
+  },
+  {
+    "id": "848",
+    "name": "Maruca crua",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "423",
+    "name": "Massa com ovo cozida",
+    "kcalPer100g": 71.0
+  },
+  {
+    "id": "422",
+    "name": "Massa com ovo crua",
+    "kcalPer100g": 360.0
+  },
+  {
+    "id": "1165",
+    "name": "Massa de pimentão",
+    "kcalPer100g": 44.0
+  },
+  {
+    "id": "1209",
+    "name": "Massa folhada, congelada",
+    "kcalPer100g": 398.0
+  },
+  {
+    "id": "418",
+    "name": "Massa miúda crua",
+    "kcalPer100g": 356.0
+  },
+  {
+    "id": "425",
+    "name": "Massa para lasanha cozida",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "424",
+    "name": "Massa para lasanha crua",
+    "kcalPer100g": 359.0
+  },
+  {
+    "id": "1215",
+    "name": "Massa para pizza",
+    "kcalPer100g": 289.0
+  },
+  {
+    "id": "956",
+    "name": "Massa quebrada para quiche",
+    "kcalPer100g": 498.0
+  },
+  {
+    "id": "250012",
+    "name": "Medronho",
+    "kcalPer100g": 150.0
+  },
+  {
+    "id": "1037",
+    "name": "Meia-desfeita de bacalhau",
+    "kcalPer100g": 156.0
+  },
+  {
+    "id": "504",
+    "name": "Mel",
+    "kcalPer100g": 314.0
+  },
+  {
+    "id": "1900000069",
+    "name": "Mel de cana",
+    "kcalPer100g": 311.0
+  },
+  {
+    "id": "1900000068",
+    "name": "Melaço",
+    "kcalPer100g": 269.0
+  },
+  {
+    "id": "673",
+    "name": "Melancia",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "674",
+    "name": "Melão (3 variedades)",
+    "kcalPer100g": 39.0
+  },
+  {
+    "id": "675",
+    "name": "Meloa",
+    "kcalPer100g": 39.0
+  },
+  {
+    "id": "485",
+    "name": "Merengue",
+    "kcalPer100g": 353.0
+  },
+  {
+    "id": "910",
+    "name": "Mexilhão cozido sem sal",
+    "kcalPer100g": 97.0
+  },
+  {
+    "id": "909",
+    "name": "Mexilhão cru",
+    "kcalPer100g": 70.0
+  },
+  {
+    "id": "1900000083",
+    "name": "Milho doce em conserva",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "452",
+    "name": "Milho, amido (pó)",
+    "kcalPer100g": 364.0
+  },
+  {
+    "id": "412",
+    "name": "Milho, grão seco cru",
+    "kcalPer100g": 368.0
+  },
+  {
+    "id": "220026",
+    "name": "Millet, cru, seco",
+    "kcalPer100g": 362.0
+  },
+  {
+    "id": "387",
+    "name": "Minarina (meia margarina)",
+    "kcalPer100g": 380.0
+  },
+  {
+    "id": "1900000090",
+    "name": "Mirtilo",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "1900000113",
+    "name": "Mirtilo desidratado",
+    "kcalPer100g": 317.0
+  },
+  {
+    "id": "220027",
+    "name": "Miso, pasta de soja fermentada com arroz integral e cevada",
+    "kcalPer100g": 177.0
+  },
+  {
+    "id": "928",
+    "name": "Molho \"Béchamel\" com manteiga",
+    "kcalPer100g": 130.0
+  },
+  {
+    "id": "929",
+    "name": "Molho \"Béchamel\" com margarina",
+    "kcalPer100g": 140.0
+  },
+  {
+    "id": "930",
+    "name": "Molho branco com caldo de carne de vaca",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "931",
+    "name": "Molho branco com margarina",
+    "kcalPer100g": 244.0
+  },
+  {
+    "id": "934",
+    "name": "Molho de bife frito com manteiga",
+    "kcalPer100g": 379.0
+  },
+  {
+    "id": "940",
+    "name": "Molho de carne de vaca assada com azeite e margarina",
+    "kcalPer100g": 586.0
+  },
+  {
+    "id": "941",
+    "name": "Molho de carne de vaca assada com margarina",
+    "kcalPer100g": 513.0
+  },
+  {
+    "id": "942",
+    "name": "Molho de carne de vaca estufada com azeite e margarina",
+    "kcalPer100g": 260.0
+  },
+  {
+    "id": "943",
+    "name": "Molho de carne de vaca estufada com vegetais, azeite e margarina",
+    "kcalPer100g": 267.0
+  },
+  {
+    "id": "937",
+    "name": "Molho de lombo de porco frito com banha",
+    "kcalPer100g": 551.0
+  },
+  {
+    "id": "938",
+    "name": "Molho de lombo de porco frito com banha e margarina",
+    "kcalPer100g": 498.0
+  },
+  {
+    "id": "939",
+    "name": "Molho de lombo de porco frito com margarina",
+    "kcalPer100g": 447.0
+  },
+  {
+    "id": "936",
+    "name": "Molho de lombo de vaca frito com creme vegetal sem sal",
+    "kcalPer100g": 350.0
+  },
+  {
+    "id": "935",
+    "name": "Molho de lombo de vaca frito com margarina",
+    "kcalPer100g": 372.0
+  },
+  {
+    "id": "1211",
+    "name": "Molho de mostarda",
+    "kcalPer100g": 444.0
+  },
+  {
+    "id": "2120000007",
+    "name": "Molho de soja",
+    "kcalPer100g": 89.0
+  },
+  {
+    "id": "932",
+    "name": "Molho de tomate",
+    "kcalPer100g": 107.0
+  },
+  {
+    "id": "960",
+    "name": "Molho de tomate, \"ketchup\"",
+    "kcalPer100g": 119.0
+  },
+  {
+    "id": "1229",
+    "name": "Molho de vinagrete",
+    "kcalPer100g": 648.0
+  },
+  {
+    "id": "1164",
+    "name": "Molho para francesinha",
+    "kcalPer100g": 74.0
+  },
+  {
+    "id": "933",
+    "name": "Molho verde",
+    "kcalPer100g": 246.0
+  },
+  {
+    "id": "676",
+    "name": "Morango",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "1900000079",
+    "name": "Morango desidratado",
+    "kcalPer100g": 322.0
+  },
+  {
+    "id": "350",
+    "name": "Morcela crua",
+    "kcalPer100g": 363.0
+  },
+  {
+    "id": "351",
+    "name": "Morcela grelhada",
+    "kcalPer100g": 339.0
+  },
+  {
+    "id": "352",
+    "name": "Mortadela",
+    "kcalPer100g": 379.0
+  },
+  {
+    "id": "501",
+    "name": "Mousse de chocolate",
+    "kcalPer100g": 285.0
+  },
+  {
+    "id": "2120000001",
+    "name": "Múcua (fruto do embondeiro, baobab)",
+    "kcalPer100g": 212.0
+  },
+  {
+    "id": "1900000032",
+    "name": "Nabiça crua",
+    "kcalPer100g": 17.0
+  },
+  {
+    "id": "240004",
+    "name": "Nabiças cozidas",
+    "kcalPer100g": 16.0
+  },
+  {
+    "id": "610",
+    "name": "Nabo (raiz) cozido",
+    "kcalPer100g": 19.0
+  },
+  {
+    "id": "609",
+    "name": "Nabo (raiz) cru",
+    "kcalPer100g": 21.0
+  },
+  {
+    "id": "62",
+    "name": "Nata maturada pasteurizada 30% gordura",
+    "kcalPer100g": 306.0
+  },
+  {
+    "id": "66",
+    "name": "Nata para bater pasteurizada 34% gordura",
+    "kcalPer100g": 323.0
+  },
+  {
+    "id": "65",
+    "name": "Nata pasteurizada 33% gordura",
+    "kcalPer100g": 317.0
+  },
+  {
+    "id": "63",
+    "name": "Nata pasteurizada 36% gordura",
+    "kcalPer100g": 340.0
+  },
+  {
+    "id": "64",
+    "name": "Nata pasteurizada para café, 15% gordura",
+    "kcalPer100g": 153.0
+  },
+  {
+    "id": "67",
+    "name": "Nata UHT 35% gordura",
+    "kcalPer100g": 335.0
+  },
+  {
+    "id": "754",
+    "name": "Néctar de \"tutti - frutti\"",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "748",
+    "name": "Néctar de alperce",
+    "kcalPer100g": 56.0
+  },
+  {
+    "id": "749",
+    "name": "Néctar de ananás",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "750",
+    "name": "Néctar de laranja",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "751",
+    "name": "Néctar de maçã",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "757",
+    "name": "Néctar de maçã, \"light\"",
+    "kcalPer100g": 22.0
+  },
+  {
+    "id": "752",
+    "name": "Néctar de pera",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "753",
+    "name": "Néctar de pêssego",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "762",
+    "name": "Néctar de pêssego, \"light\"",
+    "kcalPer100g": 18.0
+  },
+  {
+    "id": "688",
+    "name": "Nectarina",
+    "kcalPer100g": 49.0
+  },
+  {
+    "id": "678",
+    "name": "Nêspera",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "1212",
+    "name": "Noz-moscada",
+    "kcalPer100g": 506.0
+  },
+  {
+    "id": "1900000050",
+    "name": "Noz macadâmia",
+    "kcalPer100g": 752.0
+  },
+  {
+    "id": "1900000049",
+    "name": "Noz pecan",
+    "kcalPer100g": 729.0
+  },
+  {
+    "id": "708",
+    "name": "Noz, miolo",
+    "kcalPer100g": 699.0
+  },
+  {
+    "id": "389",
+    "name": "Óleo \"Becel\"",
+    "kcalPer100g": 887.0
+  },
+  {
+    "id": "392",
+    "name": "Óleo alimentar",
+    "kcalPer100g": 896.0
+  },
+  {
+    "id": "388",
+    "name": "Óleo de amendoim",
+    "kcalPer100g": 887.0
+  },
+  {
+    "id": "1900000092",
+    "name": "Óleo de coco",
+    "kcalPer100g": 900.0
+  },
+  {
+    "id": "390",
+    "name": "Óleo de girassol",
+    "kcalPer100g": 896.0
+  },
+  {
+    "id": "2120000009",
+    "name": "Óleo de linhaça",
+    "kcalPer100g": 900.0
+  },
+  {
+    "id": "391",
+    "name": "Óleo de milho",
+    "kcalPer100g": 896.0
+  },
+  {
+    "id": "394",
+    "name": "Óleo de palma",
+    "kcalPer100g": 900.0
+  },
+  {
+    "id": "393",
+    "name": "Óleo de soja",
+    "kcalPer100g": 887.0
+  },
+  {
+    "id": "1072",
+    "name": "Omelete",
+    "kcalPer100g": 136.0
+  },
+  {
+    "id": "93",
+    "name": "Omelete com manteiga",
+    "kcalPer100g": 199.0
+  },
+  {
+    "id": "94",
+    "name": "Omelete com margarina",
+    "kcalPer100g": 198.0
+  },
+  {
+    "id": "1213",
+    "name": "Orégão seco",
+    "kcalPer100g": 265.0
+  },
+  {
+    "id": "911",
+    "name": "Ostra, crua",
+    "kcalPer100g": 65.0
+  },
+  {
+    "id": "1900000057",
+    "name": "Ovo de codorniz, cru",
+    "kcalPer100g": 150.0
+  },
+  {
+    "id": "83",
+    "name": "Ovo de galinha inteiro, cru",
+    "kcalPer100g": 143.0
+  },
+  {
+    "id": "95",
+    "name": "Ovo de galinha líquido, pasteurizado",
+    "kcalPer100g": 131.0
+  },
+  {
+    "id": "86",
+    "name": "Ovo de galinha, cozido",
+    "kcalPer100g": 149.0
+  },
+  {
+    "id": "87",
+    "name": "Ovo de galinha, escalfado",
+    "kcalPer100g": 150.0
+  },
+  {
+    "id": "90000015",
+    "name": "Ovo de galinha, estrelado",
+    "kcalPer100g": 193.0
+  },
+  {
+    "id": "90",
+    "name": "Ovo de galinha, estrelado com azeite",
+    "kcalPer100g": 191.0
+  },
+  {
+    "id": "88",
+    "name": "Ovo de galinha, estrelado com manteiga",
+    "kcalPer100g": 194.0
+  },
+  {
+    "id": "89",
+    "name": "Ovo de galinha, estrelado com margarina",
+    "kcalPer100g": 194.0
+  },
+  {
+    "id": "91",
+    "name": "Ovo de galinha, mexido com manteiga",
+    "kcalPer100g": 197.0
+  },
+  {
+    "id": "92",
+    "name": "Ovo de galinha, mexido com margarina",
+    "kcalPer100g": 196.0
+  },
+  {
+    "id": "1123",
+    "name": "Ovo mexido com leite e margarina",
+    "kcalPer100g": 213.0
+  },
+  {
+    "id": "353",
+    "name": "Paio de lombo",
+    "kcalPer100g": 288.0
+  },
+  {
+    "id": "354",
+    "name": "Paio de lombo entremeado",
+    "kcalPer100g": 361.0
+  },
+  {
+    "id": "426",
+    "name": "Pão de centeio",
+    "kcalPer100g": 268.0
+  },
+  {
+    "id": "427",
+    "name": "Pão de centeio integral",
+    "kcalPer100g": 229.0
+  },
+  {
+    "id": "432",
+    "name": "Pão de forma, de trigo com passas",
+    "kcalPer100g": 291.0
+  },
+  {
+    "id": "431",
+    "name": "Pão de forma, de trigo enriquecido",
+    "kcalPer100g": 284.0
+  },
+  {
+    "id": "438",
+    "name": "Pão de leite (trigo)",
+    "kcalPer100g": 259.0
+  },
+  {
+    "id": "486",
+    "name": "Pão de ló",
+    "kcalPer100g": 361.0
+  },
+  {
+    "id": "428",
+    "name": "Pão de milho",
+    "kcalPer100g": 188.0
+  },
+  {
+    "id": "430",
+    "name": "Pão de mistura de trigo e centeio",
+    "kcalPer100g": 272.0
+  },
+  {
+    "id": "429",
+    "name": "Pão de trigo",
+    "kcalPer100g": 290.0
+  },
+  {
+    "id": "437",
+    "name": "Pão de trigo com redução de sal",
+    "kcalPer100g": 248.0
+  },
+  {
+    "id": "433",
+    "name": "Pão de trigo integral",
+    "kcalPer100g": 232.0
+  },
+  {
+    "id": "436",
+    "name": "Pão de trigo integral com passas",
+    "kcalPer100g": 247.0
+  },
+  {
+    "id": "434",
+    "name": "Pão de trigo integral com sementes de sésamo",
+    "kcalPer100g": 256.0
+  },
+  {
+    "id": "435",
+    "name": "Pão de trigo integral com soja",
+    "kcalPer100g": 233.0
+  },
+  {
+    "id": "1214",
+    "name": "Pão pita",
+    "kcalPer100g": 218.0
+  },
+  {
+    "id": "18",
+    "name": "Pão ralado",
+    "kcalPer100g": 359.0
+  },
+  {
+    "id": "679",
+    "name": "Papaia",
+    "kcalPer100g": 45.0
+  },
+  {
+    "id": "1900000103",
+    "name": "Papaia desidratada",
+    "kcalPer100g": 361.0
+  },
+  {
+    "id": "852",
+    "name": "Pargo legítimo assado com cebola, tomate e azeite",
+    "kcalPer100g": 136.0
+  },
+  {
+    "id": "851",
+    "name": "Pargo legítimo cozido",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "850",
+    "name": "Pargo legítimo cru",
+    "kcalPer100g": 79.0
+  },
+  {
+    "id": "855",
+    "name": "Pargo mulato assado com cebola, tomate e azeite",
+    "kcalPer100g": 137.0
+  },
+  {
+    "id": "854",
+    "name": "Pargo mulato cozido",
+    "kcalPer100g": 85.0
+  },
+  {
+    "id": "853",
+    "name": "Pargo mulato cru",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "356",
+    "name": "Pasta de aves (paté), caseira",
+    "kcalPer100g": 288.0
+  },
+  {
+    "id": "355",
+    "name": "Pasta de fígado de porco (paté)",
+    "kcalPer100g": 363.0
+  },
+  {
+    "id": "953",
+    "name": "Pastel de bacalhau",
+    "kcalPer100g": 227.0
+  },
+  {
+    "id": "488",
+    "name": "Pastel de feijão",
+    "kcalPer100g": 322.0
+  },
+  {
+    "id": "489",
+    "name": "Pastel de nata",
+    "kcalPer100g": 275.0
+  },
+  {
+    "id": "370",
+    "name": "Pastel folhado",
+    "kcalPer100g": 415.0
+  },
+  {
+    "id": "521",
+    "name": "Pastilha elástica",
+    "kcalPer100g": 328.0
+  },
+  {
+    "id": "280",
+    "name": "Pato com pele, assado sem molho",
+    "kcalPer100g": 347.0
+  },
+  {
+    "id": "277",
+    "name": "Pato com pele, cru",
+    "kcalPer100g": 394.0
+  },
+  {
+    "id": "281",
+    "name": "Pato sem pele, assado com margarina",
+    "kcalPer100g": 276.0
+  },
+  {
+    "id": "278",
+    "name": "Pato sem pele, cru",
+    "kcalPer100g": 133.0
+  },
+  {
+    "id": "279",
+    "name": "Pato sem pele, estufado com margarina",
+    "kcalPer100g": 232.0
+  },
+  {
+    "id": "856",
+    "name": "Peixe-espada-branco cru",
+    "kcalPer100g": 117.0
+  },
+  {
+    "id": "858",
+    "name": "Peixe-espada-branco frito",
+    "kcalPer100g": 159.0
+  },
+  {
+    "id": "857",
+    "name": "Peixe-espada-branco grelhado",
+    "kcalPer100g": 123.0
+  },
+  {
+    "id": "859",
+    "name": "Peixe-espada-preto cru",
+    "kcalPer100g": 88.0
+  },
+  {
+    "id": "861",
+    "name": "Peixe-espada-preto frito",
+    "kcalPer100g": 259.0
+  },
+  {
+    "id": "860",
+    "name": "Peixe-espada-preto grelhado",
+    "kcalPer100g": 111.0
+  },
+  {
+    "id": "1082",
+    "name": "Peixinhos da horta",
+    "kcalPer100g": 94.0
+  },
+  {
+    "id": "611",
+    "name": "Pepino cru",
+    "kcalPer100g": 19.0
+  },
+  {
+    "id": "680",
+    "name": "Pera (5 variedades)",
+    "kcalPer100g": 57.0
+  },
+  {
+    "id": "683",
+    "name": "Pera conserva em calda de açúcar",
+    "kcalPer100g": 121.0
+  },
+  {
+    "id": "681",
+    "name": "Pera cozida com açúcar",
+    "kcalPer100g": 67.0
+  },
+  {
+    "id": "682",
+    "name": "Pera cozida sem açúcar",
+    "kcalPer100g": 40.0
+  },
+  {
+    "id": "684",
+    "name": "Pera cristalizada",
+    "kcalPer100g": 285.0
+  },
+  {
+    "id": "1900000109",
+    "name": "Pera desidratada",
+    "kcalPer100g": 300.0
+  },
+  {
+    "id": "2120000018",
+    "name": "Percebes crus",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "305",
+    "name": "Perdiz crua",
+    "kcalPer100g": 104.0
+  },
+  {
+    "id": "306",
+    "name": "Perdiz estufada com margarina",
+    "kcalPer100g": 212.0
+  },
+  {
+    "id": "285",
+    "name": "Peru inteiro com pele, cru",
+    "kcalPer100g": 137.0
+  },
+  {
+    "id": "1034",
+    "name": "Peru, hambúrguer frito",
+    "kcalPer100g": 56.0
+  },
+  {
+    "id": "282",
+    "name": "Peru, peito com pele, cru",
+    "kcalPer100g": 134.0
+  },
+  {
+    "id": "287",
+    "name": "Peru, peito sem pele estufado com margarina",
+    "kcalPer100g": 163.0
+  },
+  {
+    "id": "290",
+    "name": "Peru, peito sem pele panado",
+    "kcalPer100g": 226.0
+  },
+  {
+    "id": "288",
+    "name": "Peru, peito sem pele, assado com margarina",
+    "kcalPer100g": 175.0
+  },
+  {
+    "id": "284",
+    "name": "Peru, peito sem pele, cru",
+    "kcalPer100g": 105.0
+  },
+  {
+    "id": "289",
+    "name": "Peru, perna com pele, assada com margarina",
+    "kcalPer100g": 212.0
+  },
+  {
+    "id": "283",
+    "name": "Peru, perna com pele, crua",
+    "kcalPer100g": 149.0
+  },
+  {
+    "id": "286",
+    "name": "Peru, perna com pele, estufada com margarina",
+    "kcalPer100g": 170.0
+  },
+  {
+    "id": "967",
+    "name": "Pescada cozida (valor médio)",
+    "kcalPer100g": 109.0
+  },
+  {
+    "id": "966",
+    "name": "Pescada crua (valor médio)",
+    "kcalPer100g": 83.0
+  },
+  {
+    "id": "863",
+    "name": "Pescada da África do Sul cozida",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "862",
+    "name": "Pescada da África do Sul crua",
+    "kcalPer100g": 81.0
+  },
+  {
+    "id": "864",
+    "name": "Pescada da África do Sul frita",
+    "kcalPer100g": 175.0
+  },
+  {
+    "id": "866",
+    "name": "Pescada do Chile cozida",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "865",
+    "name": "Pescada do Chile crua",
+    "kcalPer100g": 86.0
+  },
+  {
+    "id": "867",
+    "name": "Pescada do Chile frita",
+    "kcalPer100g": 171.0
+  },
+  {
+    "id": "869",
+    "name": "Pescada europeia cozida",
+    "kcalPer100g": 114.0
+  },
+  {
+    "id": "868",
+    "name": "Pescada europeia crua",
+    "kcalPer100g": 75.0
+  },
+  {
+    "id": "965",
+    "name": "Pescada europeia frita",
+    "kcalPer100g": 164.0
+  },
+  {
+    "id": "968",
+    "name": "Pescada frita (valor médio)",
+    "kcalPer100g": 173.0
+  },
+  {
+    "id": "2120000017",
+    "name": "Pescada, ovas cruas",
+    "kcalPer100g": 83.0
+  },
+  {
+    "id": "685",
+    "name": "Pêssego (2 variedades)",
+    "kcalPer100g": 50.0
+  },
+  {
+    "id": "686",
+    "name": "Pêssego, conserva em calda de açúcar",
+    "kcalPer100g": 85.0
+  },
+  {
+    "id": "1900000081",
+    "name": "Picles de pepino",
+    "kcalPer100g": 74.0
+  },
+  {
+    "id": "1900000046",
+    "name": "Pimenta branca",
+    "kcalPer100g": 306.0
+  },
+  {
+    "id": "961",
+    "name": "Pimenta moída",
+    "kcalPer100g": 273.0
+  },
+  {
+    "id": "1900000047",
+    "name": "Pimenta preta",
+    "kcalPer100g": 302.0
+  },
+  {
+    "id": "612",
+    "name": "Pimento cru",
+    "kcalPer100g": 27.0
+  },
+  {
+    "id": "613",
+    "name": "Pimento grelhado",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "709",
+    "name": "Pinhão, miolo",
+    "kcalPer100g": 622.0
+  },
+  {
+    "id": "710",
+    "name": "Pistácio torrado e salgado",
+    "kcalPer100g": 616.0
+  },
+  {
+    "id": "1900000051",
+    "name": "Pistácio torrado, sem sal",
+    "kcalPer100g": 616.0
+  },
+  {
+    "id": "954",
+    "name": "Pizza de queijo e tomate",
+    "kcalPer100g": 271.0
+  },
+  {
+    "id": "955",
+    "name": "Pizza de queijo, tomate e fiambre",
+    "kcalPer100g": 281.0
+  },
+  {
+    "id": "918",
+    "name": "Polvo cozido sem sal",
+    "kcalPer100g": 103.0
+  },
+  {
+    "id": "917",
+    "name": "Polvo cru",
+    "kcalPer100g": 73.0
+  },
+  {
+    "id": "1900000005",
+    "name": "Pombo cru",
+    "kcalPer100g": 232.0
+  },
+  {
+    "id": "1216",
+    "name": "Porco, baço",
+    "kcalPer100g": 107.0
+  },
+  {
+    "id": "1145",
+    "name": "Porco, bife grelhado",
+    "kcalPer100g": 203.0
+  },
+  {
+    "id": "1217",
+    "name": "Porco, cabeça",
+    "kcalPer100g": 355.0
+  },
+  {
+    "id": "2120000010",
+    "name": "Porco, chispe",
+    "kcalPer100g": 369.0
+  },
+  {
+    "id": "315",
+    "name": "Porco, coração cru",
+    "kcalPer100g": 113.0
+  },
+  {
+    "id": "316",
+    "name": "Porco, coração estufado com banha e margarina",
+    "kcalPer100g": 193.0
+  },
+  {
+    "id": "151",
+    "name": "Porco, costeleta gorda crua",
+    "kcalPer100g": 355.0
+  },
+  {
+    "id": "177",
+    "name": "Porco, costeleta gorda grelhada",
+    "kcalPer100g": 305.0
+  },
+  {
+    "id": "1146",
+    "name": "Porco, costeleta grelhada",
+    "kcalPer100g": 212.0
+  },
+  {
+    "id": "152",
+    "name": "Porco, costeleta meio gorda crua",
+    "kcalPer100g": 221.0
+  },
+  {
+    "id": "70204038",
+    "name": "Porco, costeleta meio gorda estufada",
+    "kcalPer100g": 277.0
+  },
+  {
+    "id": "166",
+    "name": "Porco, costeleta meio gorda estufada com azeite e banha",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "168",
+    "name": "Porco, costeleta meio gorda estufada com azeite e margarina",
+    "kcalPer100g": 277.0
+  },
+  {
+    "id": "167",
+    "name": "Porco, costeleta meio gorda estufada com margarina",
+    "kcalPer100g": 272.0
+  },
+  {
+    "id": "165",
+    "name": "Porco, costeleta meio gorda estufada com óleo alimentar e banha",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "158",
+    "name": "Porco, costeleta meio gorda estufada, sem molho",
+    "kcalPer100g": 284.0
+  },
+  {
+    "id": "191",
+    "name": "Porco, costeleta meio gorda frita panada",
+    "kcalPer100g": 341.0
+  },
+  {
+    "id": "178",
+    "name": "Porco, costeleta meio gorda grelhada",
+    "kcalPer100g": 261.0
+  },
+  {
+    "id": "157",
+    "name": "Porco, entrecosto cozido",
+    "kcalPer100g": 235.0
+  },
+  {
+    "id": "156",
+    "name": "Porco, entrecosto cru",
+    "kcalPer100g": 190.0
+  },
+  {
+    "id": "162",
+    "name": "Porco, entrecosto estufado com azeite e banha",
+    "kcalPer100g": 246.0
+  },
+  {
+    "id": "164",
+    "name": "Porco, entrecosto estufado com azeite e margarina",
+    "kcalPer100g": 244.0
+  },
+  {
+    "id": "163",
+    "name": "Porco, entrecosto estufado com margarina",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "161",
+    "name": "Porco, entrecosto estufado com óleo alimentar e banha",
+    "kcalPer100g": 246.0
+  },
+  {
+    "id": "159",
+    "name": "Porco, entrecosto estufado sem molho",
+    "kcalPer100g": 245.0
+  },
+  {
+    "id": "173",
+    "name": "Porco, entrecosto grelhado",
+    "kcalPer100g": 243.0
+  },
+  {
+    "id": "1144",
+    "name": "Porco, espetada grelhada",
+    "kcalPer100g": 285.0
+  },
+  {
+    "id": "321",
+    "name": "Porco, fígado cru",
+    "kcalPer100g": 129.0
+  },
+  {
+    "id": "323",
+    "name": "Porco, fígado frito com margarina e banha",
+    "kcalPer100g": 211.0
+  },
+  {
+    "id": "337",
+    "name": "Porco, fígado frito sem molho",
+    "kcalPer100g": 180.0
+  },
+  {
+    "id": "322",
+    "name": "Porco, fígado grelhado",
+    "kcalPer100g": 162.0
+  },
+  {
+    "id": "295",
+    "name": "Porco, hambúrguer frito, sem molho",
+    "kcalPer100g": 264.0
+  },
+  {
+    "id": "296",
+    "name": "Porco, hambúrguer grelhado",
+    "kcalPer100g": 261.0
+  },
+  {
+    "id": "2120000011",
+    "name": "Porco, jarrete",
+    "kcalPer100g": 140.0
+  },
+  {
+    "id": "1900000008",
+    "name": "Porco, língua crua",
+    "kcalPer100g": 220.0
+  },
+  {
+    "id": "70204048",
+    "name": "Porco, lombo assado",
+    "kcalPer100g": 220.0
+  },
+  {
+    "id": "187",
+    "name": "Porco, lombo assado com azeite e margarina",
+    "kcalPer100g": 219.0
+  },
+  {
+    "id": "185",
+    "name": "Porco, lombo assado com margarina",
+    "kcalPer100g": 208.0
+  },
+  {
+    "id": "186",
+    "name": "Porco, lombo assado com óleo alimentar e margarina",
+    "kcalPer100g": 219.0
+  },
+  {
+    "id": "180",
+    "name": "Porco, lombo assado, sem molho",
+    "kcalPer100g": 210.0
+  },
+  {
+    "id": "153",
+    "name": "Porco, lombo cru",
+    "kcalPer100g": 131.0
+  },
+  {
+    "id": "70204054",
+    "name": "Porco, lombo frito",
+    "kcalPer100g": 182.0
+  },
+  {
+    "id": "193",
+    "name": "Porco, lombo frito com manteiga",
+    "kcalPer100g": 180.0
+  },
+  {
+    "id": "194",
+    "name": "Porco, lombo frito com margarina",
+    "kcalPer100g": 184.0
+  },
+  {
+    "id": "192",
+    "name": "Porco, lombo frito panado",
+    "kcalPer100g": 249.0
+  },
+  {
+    "id": "176",
+    "name": "Porco, lombo grelhado",
+    "kcalPer100g": 189.0
+  },
+  {
+    "id": "1219",
+    "name": "Porco, orelha crua",
+    "kcalPer100g": 128.0
+  },
+  {
+    "id": "1221",
+    "name": "Porco, pé cru",
+    "kcalPer100g": 335.0
+  },
+  {
+    "id": "182",
+    "name": "Porco, perna gorda assada com azeite e margarina",
+    "kcalPer100g": 353.0
+  },
+  {
+    "id": "184",
+    "name": "Porco, perna gorda assada com margarina",
+    "kcalPer100g": 347.0
+  },
+  {
+    "id": "183",
+    "name": "Porco, perna gorda assada com óleo alimentar e margarina",
+    "kcalPer100g": 353.0
+  },
+  {
+    "id": "181",
+    "name": "Porco, perna gorda assada, sem molho",
+    "kcalPer100g": 283.0
+  },
+  {
+    "id": "154",
+    "name": "Porco, perna gorda crua",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "175",
+    "name": "Porco, perna gorda grelhada",
+    "kcalPer100g": 287.0
+  },
+  {
+    "id": "188",
+    "name": "Porco, perna magra assada com azeite e margarina",
+    "kcalPer100g": 245.0
+  },
+  {
+    "id": "190",
+    "name": "Porco, perna magra assada com margarina",
+    "kcalPer100g": 239.0
+  },
+  {
+    "id": "189",
+    "name": "Porco, perna magra assada com óleo alimentar e margarina",
+    "kcalPer100g": 244.0
+  },
+  {
+    "id": "179",
+    "name": "Porco, perna magra assada, sem molho",
+    "kcalPer100g": 213.0
+  },
+  {
+    "id": "155",
+    "name": "Porco, perna magra crua",
+    "kcalPer100g": 152.0
+  },
+  {
+    "id": "170",
+    "name": "Porco, perna magra estufada com azeite e banha",
+    "kcalPer100g": 206.0
+  },
+  {
+    "id": "169",
+    "name": "Porco, perna magra estufada com azeite e margarina",
+    "kcalPer100g": 203.0
+  },
+  {
+    "id": "171",
+    "name": "Porco, perna magra estufada com margarina",
+    "kcalPer100g": 198.0
+  },
+  {
+    "id": "172",
+    "name": "Porco, perna magra estufada com óleo alimentar e banha",
+    "kcalPer100g": 206.0
+  },
+  {
+    "id": "160",
+    "name": "Porco, perna magra estufada, sem molho",
+    "kcalPer100g": 213.0
+  },
+  {
+    "id": "174",
+    "name": "Porco, perna magra grelhada",
+    "kcalPer100g": 215.0
+  },
+  {
+    "id": "1222",
+    "name": "Porco, pulmões crus",
+    "kcalPer100g": 101.0
+  },
+  {
+    "id": "334",
+    "name": "Porco, rim cru",
+    "kcalPer100g": 95.0
+  },
+  {
+    "id": "335",
+    "name": "Porco, rim frito com margarina",
+    "kcalPer100g": 206.0
+  },
+  {
+    "id": "1032",
+    "name": "Porco, rojões de carne gorda",
+    "kcalPer100g": 244.0
+  },
+  {
+    "id": "1031",
+    "name": "Porco, rojões de carne magra",
+    "kcalPer100g": 140.0
+  },
+  {
+    "id": "1223",
+    "name": "Porco, sangue cru",
+    "kcalPer100g": 72.0
+  },
+  {
+    "id": "307",
+    "name": "Porco, toucinho entremeado fresco, cru",
+    "kcalPer100g": 682.0
+  },
+  {
+    "id": "310",
+    "name": "Porco, toucinho entremeado fresco, grelhado sem adição de sal",
+    "kcalPer100g": 676.0
+  },
+  {
+    "id": "309",
+    "name": "Porco, toucinho entremeado ligeiramente salgado, cozido sem adição de sal",
+    "kcalPer100g": 372.0
+  },
+  {
+    "id": "308",
+    "name": "Porco, toucinho entremeado ligeiramente salgado, cru",
+    "kcalPer100g": 506.0
+  },
+  {
+    "id": "2120000012",
+    "name": "Porco, toucinho entremeado magro",
+    "kcalPer100g": 333.0
+  },
+  {
+    "id": "1900000060",
+    "name": "Pota crua",
+    "kcalPer100g": 75.0
+  },
+  {
+    "id": "357",
+    "name": "Presunto",
+    "kcalPer100g": 215.0
+  },
+  {
+    "id": "2122000005",
+    "name": "Proteína texturizada de soja",
+    "kcalPer100g": 327.0
+  },
+  {
+    "id": "490",
+    "name": "Pudim de leite e ovos",
+    "kcalPer100g": 246.0
+  },
+  {
+    "id": "491",
+    "name": "Pudim flan caseiro",
+    "kcalPer100g": 211.0
+  },
+  {
+    "id": "492",
+    "name": "Pudim instantâneo em pó",
+    "kcalPer100g": 412.0
+  },
+  {
+    "id": "494",
+    "name": "Pudim instantâneo preparado com leite magro",
+    "kcalPer100g": 104.0
+  },
+  {
+    "id": "493",
+    "name": "Pudim instantâneo preparado com leite meio gordo",
+    "kcalPer100g": 113.0
+  },
+  {
+    "id": "589",
+    "name": "Puré de batata",
+    "kcalPer100g": 126.0
+  },
+  {
+    "id": "523",
+    "name": "Queijada de queijo fresco",
+    "kcalPer100g": 301.0
+  },
+  {
+    "id": "522",
+    "name": "Queijada de queijo magro",
+    "kcalPer100g": 292.0
+  },
+  {
+    "id": "524",
+    "name": "Queijada de requeijão",
+    "kcalPer100g": 311.0
+  },
+  {
+    "id": "220006",
+    "name": "Queijo Amarelo da Beira Baixa",
+    "kcalPer100g": 361.0
+  },
+  {
+    "id": "1900000087",
+    "name": "Queijo Brie",
+    "kcalPer100g": 321.0
+  },
+  {
+    "id": "48",
+    "name": "Queijo Camembert",
+    "kcalPer100g": 254.0
+  },
+  {
+    "id": "50800016",
+    "name": "Queijo Cheddar",
+    "kcalPer100g": 419.0
+  },
+  {
+    "id": "1230",
+    "name": "Queijo creme para barrar",
+    "kcalPer100g": 263.0
+  },
+  {
+    "id": "56",
+    "name": "Queijo creme para barrar, alto teor polinsaturados",
+    "kcalPer100g": 263.0
+  },
+  {
+    "id": "47",
+    "name": "Queijo de Azeitão",
+    "kcalPer100g": 339.0
+  },
+  {
+    "id": "220022",
+    "name": "Queijo de cabra \"Pure chèvre\"",
+    "kcalPer100g": 286.0
+  },
+  {
+    "id": "220015",
+    "name": "Queijo de cabra atabafado, curado",
+    "kcalPer100g": 313.0
+  },
+  {
+    "id": "220004",
+    "name": "Queijo de cabra atabafado, fresco",
+    "kcalPer100g": 202.0
+  },
+  {
+    "id": "220014",
+    "name": "Queijo de cabra curado",
+    "kcalPer100g": 382.0
+  },
+  {
+    "id": "220007",
+    "name": "Queijo de Castelo Branco",
+    "kcalPer100g": 356.0
+  },
+  {
+    "id": "49",
+    "name": "Queijo de Évora",
+    "kcalPer100g": 405.0
+  },
+  {
+    "id": "220021",
+    "name": "Queijo de mistura (vaca, cabra e ovelha)",
+    "kcalPer100g": 329.0
+  },
+  {
+    "id": "220009",
+    "name": "Queijo de Nisa",
+    "kcalPer100g": 451.0
+  },
+  {
+    "id": "220008",
+    "name": "Queijo de ovelha curado",
+    "kcalPer100g": 401.0
+  },
+  {
+    "id": "220019",
+    "name": "Queijo de ovelha, amanteigado",
+    "kcalPer100g": 361.0
+  },
+  {
+    "id": "220016",
+    "name": "Queijo de vaca curado",
+    "kcalPer100g": 355.0
+  },
+  {
+    "id": "220018",
+    "name": "Queijo de vaca curado, magro",
+    "kcalPer100g": 208.0
+  },
+  {
+    "id": "220017",
+    "name": "Queijo de vaca curado, meio gordo",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "220020",
+    "name": "Queijo de vaca, amanteigado",
+    "kcalPer100g": 343.0
+  },
+  {
+    "id": "39",
+    "name": "Queijo Emmental",
+    "kcalPer100g": 384.0
+  },
+  {
+    "id": "50800032",
+    "name": "Queijo flamengo",
+    "kcalPer100g": 349.0
+  },
+  {
+    "id": "220005",
+    "name": "Queijo flamengo light (-50% gordura)",
+    "kcalPer100g": 228.0
+  },
+  {
+    "id": "58",
+    "name": "Queijo fresco açucarado com sabor a fruta",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "2122000010",
+    "name": "Queijo fresco de cabra",
+    "kcalPer100g": 182.0
+  },
+  {
+    "id": "1900000086",
+    "name": "Queijo fresco de ovelha",
+    "kcalPer100g": 204.0
+  },
+  {
+    "id": "2122000011",
+    "name": "Queijo fresco magro",
+    "kcalPer100g": 96.0
+  },
+  {
+    "id": "2122000012",
+    "name": "Queijo fresco meio gordo",
+    "kcalPer100g": 156.0
+  },
+  {
+    "id": "41",
+    "name": "Queijo fundido 40% gordura",
+    "kcalPer100g": 326.0
+  },
+  {
+    "id": "50800020",
+    "name": "Queijo Gouda",
+    "kcalPer100g": 380.0
+  },
+  {
+    "id": "50800022",
+    "name": "Queijo Gruyère",
+    "kcalPer100g": 415.0
+  },
+  {
+    "id": "50800024",
+    "name": "Queijo Mascarpone",
+    "kcalPer100g": 458.0
+  },
+  {
+    "id": "220010",
+    "name": "Queijo Mestiço de Tolosa",
+    "kcalPer100g": 407.0
+  },
+  {
+    "id": "1224",
+    "name": "Queijo Mozzarella fresco",
+    "kcalPer100g": 256.0
+  },
+  {
+    "id": "51",
+    "name": "Queijo Parmesão",
+    "kcalPer100g": 406.0
+  },
+  {
+    "id": "61",
+    "name": "Queijo Quark açucarado magro com sabor a fruta",
+    "kcalPer100g": 78.0
+  },
+  {
+    "id": "60",
+    "name": "Queijo Quark natural magro",
+    "kcalPer100g": 60.0
+  },
+  {
+    "id": "59",
+    "name": "Queijo Quark natural meio gordo",
+    "kcalPer100g": 125.0
+  },
+  {
+    "id": "1900000088",
+    "name": "Queijo Raclette",
+    "kcalPer100g": 354.0
+  },
+  {
+    "id": "52",
+    "name": "Queijo Roquefort",
+    "kcalPer100g": 372.0
+  },
+  {
+    "id": "40",
+    "name": "Queijo São Jorge",
+    "kcalPer100g": 409.0
+  },
+  {
+    "id": "55",
+    "name": "Queijo Serpa",
+    "kcalPer100g": 375.0
+  },
+  {
+    "id": "53",
+    "name": "Queijo Serra da Estrela",
+    "kcalPer100g": 324.0
+  },
+  {
+    "id": "54",
+    "name": "Queijo Serra da Estrela, velho",
+    "kcalPer100g": 389.0
+  },
+  {
+    "id": "495",
+    "name": "Queque",
+    "kcalPer100g": 443.0
+  },
+  {
+    "id": "1900000014",
+    "name": "Quiabo cru",
+    "kcalPer100g": 37.0
+  },
+  {
+    "id": "1071",
+    "name": "Quiche de espinafres",
+    "kcalPer100g": 275.0
+  },
+  {
+    "id": "1066",
+    "name": "Quiche de vegetais",
+    "kcalPer100g": 302.0
+  },
+  {
+    "id": "957",
+    "name": "Quiche lorraine",
+    "kcalPer100g": 374.0
+  },
+  {
+    "id": "657",
+    "name": "Quivi, \"Kiwi\"",
+    "kcalPer100g": 54.0
+  },
+  {
+    "id": "1900000108",
+    "name": "Quivi, \"Kiwi\" desidratado",
+    "kcalPer100g": 333.0
+  },
+  {
+    "id": "511",
+    "name": "Rabanada",
+    "kcalPer100g": 294.0
+  },
+  {
+    "id": "614",
+    "name": "Rabanete cru",
+    "kcalPer100g": 15.0
+  },
+  {
+    "id": "1900000015",
+    "name": "Rábano cru",
+    "kcalPer100g": 88.0
+  },
+  {
+    "id": "870",
+    "name": "Raia crua",
+    "kcalPer100g": 58.0
+  },
+  {
+    "id": "1025",
+    "name": "Rancho com carne de galinha, porco e vaca",
+    "kcalPer100g": 84.0
+  },
+  {
+    "id": "1026",
+    "name": "Rancho com carne de porco",
+    "kcalPer100g": 107.0
+  },
+  {
+    "id": "1900000020",
+    "name": "Rebentos de alfalfa crus",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "1900000019",
+    "name": "Rebentos de bambu crus",
+    "kcalPer100g": 14.0
+  },
+  {
+    "id": "250027",
+    "name": "Rebentos de feijão mungo",
+    "kcalPer100g": 21.0
+  },
+  {
+    "id": "1900000022",
+    "name": "Rebentos de soja crus",
+    "kcalPer100g": 98.0
+  },
+  {
+    "id": "520",
+    "name": "Rebuçados",
+    "kcalPer100g": 381.0
+  },
+  {
+    "id": "220003",
+    "name": "Requeijão de cabra",
+    "kcalPer100g": 197.0
+  },
+  {
+    "id": "220012",
+    "name": "Requeijão de mistura (ovelha e cabra)",
+    "kcalPer100g": 136.0
+  },
+  {
+    "id": "220011",
+    "name": "Requeijão de mistura (vaca, ovelha e cabra)",
+    "kcalPer100g": 179.0
+  },
+  {
+    "id": "220013",
+    "name": "Requeijão de ovelha",
+    "kcalPer100g": 246.0
+  },
+  {
+    "id": "42",
+    "name": "Requeijão de vaca",
+    "kcalPer100g": 149.0
+  },
+  {
+    "id": "368",
+    "name": "Rissol",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "952",
+    "name": "Rissol de camarão",
+    "kcalPer100g": 211.0
+  },
+  {
+    "id": "874",
+    "name": "Robalo assado com cebola, azeite, banha e manteiga",
+    "kcalPer100g": 192.0
+  },
+  {
+    "id": "872",
+    "name": "Robalo cozido",
+    "kcalPer100g": 182.0
+  },
+  {
+    "id": "871",
+    "name": "Robalo cru",
+    "kcalPer100g": 106.0
+  },
+  {
+    "id": "873",
+    "name": "Robalo grelhado",
+    "kcalPer100g": 209.0
+  },
+  {
+    "id": "696",
+    "name": "Romã",
+    "kcalPer100g": 60.0
+  },
+  {
+    "id": "1225",
+    "name": "Rúcula crua",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "875",
+    "name": "Safio cru",
+    "kcalPer100g": 109.0
+  },
+  {
+    "id": "972",
+    "name": "Sal",
+    "kcalPer100g": 0.0
+  },
+  {
+    "id": "1122",
+    "name": "Salada de alface e tomate temperada com azeite e vinagre",
+    "kcalPer100g": 30.0
+  },
+  {
+    "id": "1043",
+    "name": "Salada de atum",
+    "kcalPer100g": 104.0
+  },
+  {
+    "id": "1042",
+    "name": "Salada de bacalhau com grão",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "260004",
+    "name": "Salada de fruta",
+    "kcalPer100g": 57.0
+  },
+  {
+    "id": "1154",
+    "name": "Salada russa",
+    "kcalPer100g": 116.0
+  },
+  {
+    "id": "359",
+    "name": "Salame",
+    "kcalPer100g": 422.0
+  },
+  {
+    "id": "220023",
+    "name": "Salicórnia fresca",
+    "kcalPer100g": 14.0
+  },
+  {
+    "id": "877",
+    "name": "Salmão cozido",
+    "kcalPer100g": 273.0
+  },
+  {
+    "id": "876",
+    "name": "Salmão cru",
+    "kcalPer100g": 262.0
+  },
+  {
+    "id": "878",
+    "name": "Salmão grelhado",
+    "kcalPer100g": 309.0
+  },
+  {
+    "id": "2120000013",
+    "name": "Salmonete cru",
+    "kcalPer100g": 136.0
+  },
+  {
+    "id": "360",
+    "name": "Salpicão",
+    "kcalPer100g": 412.0
+  },
+  {
+    "id": "6",
+    "name": "Salsa fresca",
+    "kcalPer100g": 20.0
+  },
+  {
+    "id": "1226",
+    "name": "Salsa seca",
+    "kcalPer100g": 244.0
+  },
+  {
+    "id": "2122000007",
+    "name": "Salsicha de soja",
+    "kcalPer100g": 252.0
+  },
+  {
+    "id": "361",
+    "name": "Salsicha fresca crua",
+    "kcalPer100g": 210.0
+  },
+  {
+    "id": "362",
+    "name": "Salsicha fresca estufada com couve e azeite",
+    "kcalPer100g": 140.0
+  },
+  {
+    "id": "363",
+    "name": "Salsicha fresca estufada com legumes e azeite",
+    "kcalPer100g": 121.0
+  },
+  {
+    "id": "364",
+    "name": "Salsicha tipo Frankfurt",
+    "kcalPer100g": 178.0
+  },
+  {
+    "id": "366",
+    "name": "Salsicha tipo Frankfurt frita (escorrido o óleo)",
+    "kcalPer100g": 201.0
+  },
+  {
+    "id": "365",
+    "name": "Salsicha tipo Frankfurt grelhada",
+    "kcalPer100g": 211.0
+  },
+  {
+    "id": "1900000065",
+    "name": "Sapateira crua",
+    "kcalPer100g": 104.0
+  },
+  {
+    "id": "880",
+    "name": "Sarda cozida",
+    "kcalPer100g": 174.0
+  },
+  {
+    "id": "879",
+    "name": "Sarda crua",
+    "kcalPer100g": 181.0
+  },
+  {
+    "id": "881",
+    "name": "Sarda grelhada",
+    "kcalPer100g": 191.0
+  },
+  {
+    "id": "1130",
+    "name": "Sardinha frita",
+    "kcalPer100g": 300.0
+  },
+  {
+    "id": "882",
+    "name": "Sardinha gorda crua",
+    "kcalPer100g": 221.0
+  },
+  {
+    "id": "884",
+    "name": "Sardinha gorda frita",
+    "kcalPer100g": 247.0
+  },
+  {
+    "id": "883",
+    "name": "Sardinha gorda grelhada",
+    "kcalPer100g": 211.0
+  },
+  {
+    "id": "890",
+    "name": "Sardinha meio gorda conserva em água, sem espinha e sem pele",
+    "kcalPer100g": 174.0
+  },
+  {
+    "id": "888",
+    "name": "Sardinha meio gorda conserva em azeite",
+    "kcalPer100g": 202.0
+  },
+  {
+    "id": "889",
+    "name": "Sardinha meio gorda conserva em azeite (escorrido)",
+    "kcalPer100g": 189.0
+  },
+  {
+    "id": "885",
+    "name": "Sardinha meio gorda crua",
+    "kcalPer100g": 158.0
+  },
+  {
+    "id": "887",
+    "name": "Sardinha meio gorda frita",
+    "kcalPer100g": 174.0
+  },
+  {
+    "id": "886",
+    "name": "Sardinha meio gorda grelhada",
+    "kcalPer100g": 168.0
+  },
+  {
+    "id": "2122000004",
+    "name": "Seitan",
+    "kcalPer100g": 139.0
+  },
+  {
+    "id": "1900000036",
+    "name": "Sementes de abóbora, cruas, secas, miolo",
+    "kcalPer100g": 567.0
+  },
+  {
+    "id": "1900000041",
+    "name": "Sementes de cânhamo secas",
+    "kcalPer100g": 424.0
+  },
+  {
+    "id": "1900000040",
+    "name": "Sementes de chia",
+    "kcalPer100g": 456.0
+  },
+  {
+    "id": "1900000043",
+    "name": "Sementes de coentro",
+    "kcalPer100g": 358.0
+  },
+  {
+    "id": "1900000038",
+    "name": "Sementes de girassol, cruas, secas, miolo",
+    "kcalPer100g": 585.0
+  },
+  {
+    "id": "1900000034",
+    "name": "Sementes de linhaça cruas",
+    "kcalPer100g": 487.0
+  },
+  {
+    "id": "1900000035",
+    "name": "Sementes de melão",
+    "kcalPer100g": 590.0
+  },
+  {
+    "id": "1900000042",
+    "name": "Sementes de mostarda",
+    "kcalPer100g": 449.0
+  },
+  {
+    "id": "1900000039",
+    "name": "Sementes de papoila",
+    "kcalPer100g": 565.0
+  },
+  {
+    "id": "1900000037",
+    "name": "Sementes de sésamo",
+    "kcalPer100g": 620.0
+  },
+  {
+    "id": "1900000074",
+    "name": "Sêmola de milho",
+    "kcalPer100g": 350.0
+  },
+  {
+    "id": "396",
+    "name": "Shortening para pastelaria",
+    "kcalPer100g": 878.0
+  },
+  {
+    "id": "397",
+    "name": "Shortening para restaurante",
+    "kcalPer100g": 900.0
+  },
+  {
+    "id": "711",
+    "name": "Sidra (vinho de maçã)",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "2122000003",
+    "name": "Sobremesa à base de soja",
+    "kcalPer100g": 95.0
+  },
+  {
+    "id": "540",
+    "name": "Soja cozida sem sal",
+    "kcalPer100g": 151.0
+  },
+  {
+    "id": "541",
+    "name": "Soja, farinha com baixo teor de gordura",
+    "kcalPer100g": 314.0
+  },
+  {
+    "id": "539",
+    "name": "Soja, grão seco, cru",
+    "kcalPer100g": 407.0
+  },
+  {
+    "id": "891",
+    "name": "Solha crua",
+    "kcalPer100g": 90.0
+  },
+  {
+    "id": "1155",
+    "name": "Solha frita",
+    "kcalPer100g": 147.0
+  },
+  {
+    "id": "892",
+    "name": "Solha grelhada",
+    "kcalPer100g": 104.0
+  },
+  {
+    "id": "512",
+    "name": "Sonhos",
+    "kcalPer100g": 389.0
+  },
+  {
+    "id": "795",
+    "name": "Sopa à lavrador",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "780",
+    "name": "Sopa de abóbora",
+    "kcalPer100g": 33.0
+  },
+  {
+    "id": "781",
+    "name": "Sopa de agrião",
+    "kcalPer100g": 37.0
+  },
+  {
+    "id": "1110",
+    "name": "Sopa de agrião com leite",
+    "kcalPer100g": 33.0
+  },
+  {
+    "id": "1111",
+    "name": "Sopa de agrião com requeijão",
+    "kcalPer100g": 28.0
+  },
+  {
+    "id": "1024",
+    "name": "Sopa de carne de porco",
+    "kcalPer100g": 60.0
+  },
+  {
+    "id": "784",
+    "name": "Sopa de cebola",
+    "kcalPer100g": 40.0
+  },
+  {
+    "id": "1112",
+    "name": "Sopa de cenoura",
+    "kcalPer100g": 29.0
+  },
+  {
+    "id": "785",
+    "name": "Sopa de couve-branca",
+    "kcalPer100g": 40.0
+  },
+  {
+    "id": "786",
+    "name": "Sopa de couve-lombarda",
+    "kcalPer100g": 41.0
+  },
+  {
+    "id": "787",
+    "name": "Sopa de cozido",
+    "kcalPer100g": 36.0
+  },
+  {
+    "id": "789",
+    "name": "Sopa de ervilhas",
+    "kcalPer100g": 48.0
+  },
+  {
+    "id": "790",
+    "name": "Sopa de espinafres",
+    "kcalPer100g": 39.0
+  },
+  {
+    "id": "1113",
+    "name": "Sopa de espinafres com ovos",
+    "kcalPer100g": 93.0
+  },
+  {
+    "id": "791",
+    "name": "Sopa de favas",
+    "kcalPer100g": 49.0
+  },
+  {
+    "id": "1105",
+    "name": "Sopa de feijão",
+    "kcalPer100g": 51.0
+  },
+  {
+    "id": "1103",
+    "name": "Sopa de feijão-branco com couve-portuguesa, sem adição de sal",
+    "kcalPer100g": 47.0
+  },
+  {
+    "id": "1121",
+    "name": "Sopa de feijão-manteiga",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "1102",
+    "name": "Sopa de feijão-manteiga com couve-lombarda",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "1114",
+    "name": "Sopa de feijão-verde",
+    "kcalPer100g": 32.0
+  },
+  {
+    "id": "792",
+    "name": "Sopa de feijão-verde e cenoura",
+    "kcalPer100g": 42.0
+  },
+  {
+    "id": "1115",
+    "name": "Sopa de feijão-verde e nabo",
+    "kcalPer100g": 36.0
+  },
+  {
+    "id": "1106",
+    "name": "Sopa de grão à moda da avó",
+    "kcalPer100g": 107.0
+  },
+  {
+    "id": "793",
+    "name": "Sopa de grão com arroz e espinafres",
+    "kcalPer100g": 60.0
+  },
+  {
+    "id": "1108",
+    "name": "Sopa de grão com arroz, espinafres e coentros",
+    "kcalPer100g": 45.0
+  },
+  {
+    "id": "1107",
+    "name": "Sopa de grão com espinafres",
+    "kcalPer100g": 55.0
+  },
+  {
+    "id": "796",
+    "name": "Sopa de nabiças (ou de grelos de nabo)",
+    "kcalPer100g": 40.0
+  },
+  {
+    "id": "1120",
+    "name": "Sopa de peixe",
+    "kcalPer100g": 17.0
+  },
+  {
+    "id": "799",
+    "name": "Sopa de peixe com massa",
+    "kcalPer100g": 46.0
+  },
+  {
+    "id": "1101",
+    "name": "Sopa de tomate",
+    "kcalPer100g": 31.0
+  },
+  {
+    "id": "1109",
+    "name": "Sopa de vegetais",
+    "kcalPer100g": 11.0
+  },
+  {
+    "id": "794",
+    "name": "Sopa juliana",
+    "kcalPer100g": 31.0
+  },
+  {
+    "id": "782",
+    "name": "Sopa, caldo verde",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "783",
+    "name": "Sopa, canja de galinha",
+    "kcalPer100g": 40.0
+  },
+  {
+    "id": "788",
+    "name": "Sopa, creme de cenoura",
+    "kcalPer100g": 34.0
+  },
+  {
+    "id": "797",
+    "name": "Sopa, puré de feijão",
+    "kcalPer100g": 43.0
+  },
+  {
+    "id": "798",
+    "name": "Sopa, puré de vegetais",
+    "kcalPer100g": 42.0
+  },
+  {
+    "id": "776",
+    "name": "Sucedâneo de café, 20% de café, pó",
+    "kcalPer100g": 359.0
+  },
+  {
+    "id": "775",
+    "name": "Sucedâneo de café, pó",
+    "kcalPer100g": 375.0
+  },
+  {
+    "id": "1900000078",
+    "name": "Sultanas",
+    "kcalPer100g": 304.0
+  },
+  {
+    "id": "736",
+    "name": "Sumo de ananás, 100%",
+    "kcalPer100g": 45.0
+  },
+  {
+    "id": "739",
+    "name": "Sumo de ananás, concentrado",
+    "kcalPer100g": 265.0
+  },
+  {
+    "id": "740",
+    "name": "Sumo de laranja, 100%",
+    "kcalPer100g": 45.0
+  },
+  {
+    "id": "742",
+    "name": "Sumo de laranja, concentrado",
+    "kcalPer100g": 272.0
+  },
+  {
+    "id": "744",
+    "name": "Sumo de limão, fresco (espremido)",
+    "kcalPer100g": 25.0
+  },
+  {
+    "id": "745",
+    "name": "Sumo de maçã, 100%",
+    "kcalPer100g": 44.0
+  },
+  {
+    "id": "747",
+    "name": "Sumo de pêssego, 100%",
+    "kcalPer100g": 50.0
+  },
+  {
+    "id": "617",
+    "name": "Sumo de tomate, 100%",
+    "kcalPer100g": 21.0
+  },
+  {
+    "id": "2120000008",
+    "name": "Tahini",
+    "kcalPer100g": 661.0
+  },
+  {
+    "id": "1900000097",
+    "name": "Tâmara fresca",
+    "kcalPer100g": 147.0
+  },
+  {
+    "id": "689",
+    "name": "Tâmara seca",
+    "kcalPer100g": 298.0
+  },
+  {
+    "id": "1900000012",
+    "name": "Tamarilho sem pele",
+    "kcalPer100g": 34.0
+  },
+  {
+    "id": "1900000053",
+    "name": "Tamarindo cru",
+    "kcalPer100g": 242.0
+  },
+  {
+    "id": "893",
+    "name": "Tamboril cru",
+    "kcalPer100g": 73.0
+  },
+  {
+    "id": "894",
+    "name": "Tamboril grelhado",
+    "kcalPer100g": 88.0
+  },
+  {
+    "id": "690",
+    "name": "Tângera",
+    "kcalPer100g": 41.0
+  },
+  {
+    "id": "691",
+    "name": "Tangerina",
+    "kcalPer100g": 44.0
+  },
+  {
+    "id": "454",
+    "name": "Tapioca",
+    "kcalPer100g": 356.0
+  },
+  {
+    "id": "496",
+    "name": "Tarte de maçã",
+    "kcalPer100g": 200.0
+  },
+  {
+    "id": "497",
+    "name": "Tarte de maçã e pêssego",
+    "kcalPer100g": 224.0
+  },
+  {
+    "id": "964",
+    "name": "Tisana, infusão de ervas",
+    "kcalPer100g": 1.0
+  },
+  {
+    "id": "546",
+    "name": "Tofu frito com azeite",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "547",
+    "name": "Tofu frito com óleo de milho",
+    "kcalPer100g": 108.0
+  },
+  {
+    "id": "545",
+    "name": "Tofu simples",
+    "kcalPer100g": 77.0
+  },
+  {
+    "id": "1900000017",
+    "name": "Tomate cherry cru",
+    "kcalPer100g": 30.0
+  },
+  {
+    "id": "1900000080",
+    "name": "Tomate concentrado",
+    "kcalPer100g": 82.0
+  },
+  {
+    "id": "615",
+    "name": "Tomate cru",
+    "kcalPer100g": 21.0
+  },
+  {
+    "id": "616",
+    "name": "Tomate em conserva ao natural",
+    "kcalPer100g": 21.0
+  },
+  {
+    "id": "230001",
+    "name": "Tomate seco",
+    "kcalPer100g": 296.0
+  },
+  {
+    "id": "1227",
+    "name": "Tomilho fresco",
+    "kcalPer100g": 52.0
+  },
+  {
+    "id": "1228",
+    "name": "Tomilho seco",
+    "kcalPer100g": 321.0
+  },
+  {
+    "id": "692",
+    "name": "Toranja",
+    "kcalPer100g": 36.0
+  },
+  {
+    "id": "498",
+    "name": "Torta de chocolate e chantilly",
+    "kcalPer100g": 369.0
+  },
+  {
+    "id": "60302002",
+    "name": "Tosta de trigo",
+    "kcalPer100g": 377.0
+  },
+  {
+    "id": "442",
+    "name": "Tosta de trigo integral",
+    "kcalPer100g": 373.0
+  },
+  {
+    "id": "441",
+    "name": "Tosta de trigo sem sal",
+    "kcalPer100g": 379.0
+  },
+  {
+    "id": "440",
+    "name": "Tosta de trigo simples",
+    "kcalPer100g": 379.0
+  },
+  {
+    "id": "1900000048",
+    "name": "Tremoço cozido, sem sal",
+    "kcalPer100g": 124.0
+  },
+  {
+    "id": "548",
+    "name": "Tremoço, cozido e salgado",
+    "kcalPer100g": 115.0
+  },
+  {
+    "id": "2122000002",
+    "name": "Trigo Sarraceno (grão) cru",
+    "kcalPer100g": 337.0
+  },
+  {
+    "id": "1218",
+    "name": "Tripa de porco fresca",
+    "kcalPer100g": 180.0
+  },
+  {
+    "id": "2120000002",
+    "name": "Tripa de vaca crua",
+    "kcalPer100g": 160.0
+  },
+  {
+    "id": "905",
+    "name": "Truta arco-íris crua",
+    "kcalPer100g": 92.0
+  },
+  {
+    "id": "906",
+    "name": "Truta arco-íris grelhada",
+    "kcalPer100g": 119.0
+  },
+  {
+    "id": "618",
+    "name": "Túbera (trufa) crua",
+    "kcalPer100g": 77.0
+  },
+  {
+    "id": "693",
+    "name": "Uva branca (5 variedades)",
+    "kcalPer100g": 78.0
+  },
+  {
+    "id": "40200041",
+    "name": "Uva de mesa (branca e tinta)",
+    "kcalPer100g": 73.0
+  },
+  {
+    "id": "695",
+    "name": "Uva seca (passas)",
+    "kcalPer100g": 300.0
+  },
+  {
+    "id": "694",
+    "name": "Uva tinta (5 variedades)",
+    "kcalPer100g": 83.0
+  },
+  {
+    "id": "215",
+    "name": "Vaca assada com azeite e margarina",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "70202039",
+    "name": "Vaca assada com azeite, margarina e óleo alimentar",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "214",
+    "name": "Vaca assada com margarina",
+    "kcalPer100g": 273.0
+  },
+  {
+    "id": "216",
+    "name": "Vaca assada com óleo alimentar e margarina",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "209",
+    "name": "Vaca assada, sem molho",
+    "kcalPer100g": 192.0
+  },
+  {
+    "id": "199",
+    "name": "Vaca magra cozida",
+    "kcalPer100g": 259.0
+  },
+  {
+    "id": "70202033",
+    "name": "Vaca magra estufada",
+    "kcalPer100g": 226.0
+  },
+  {
+    "id": "221",
+    "name": "Vaca magra estufada à jardineira",
+    "kcalPer100g": 111.0
+  },
+  {
+    "id": "206",
+    "name": "Vaca magra estufada com azeite e margarina",
+    "kcalPer100g": 226.0
+  },
+  {
+    "id": "207",
+    "name": "Vaca magra estufada com margarina",
+    "kcalPer100g": 220.0
+  },
+  {
+    "id": "205",
+    "name": "Vaca magra estufada com óleo alimentar e margarina",
+    "kcalPer100g": 226.0
+  },
+  {
+    "id": "200",
+    "name": "Vaca magra estufada, sem molho",
+    "kcalPer100g": 234.0
+  },
+  {
+    "id": "70202028",
+    "name": "Vaca meio gorda estufada",
+    "kcalPer100g": 278.0
+  },
+  {
+    "id": "202",
+    "name": "Vaca meio gorda estufada com azeite e margarina",
+    "kcalPer100g": 278.0
+  },
+  {
+    "id": "204",
+    "name": "Vaca meio gorda estufada com margarina",
+    "kcalPer100g": 273.0
+  },
+  {
+    "id": "203",
+    "name": "Vaca meio gorda estufada com óleo alimentar e margarina",
+    "kcalPer100g": 278.0
+  },
+  {
+    "id": "201",
+    "name": "Vaca meio gorda estufada, sem molho",
+    "kcalPer100g": 280.0
+  },
+  {
+    "id": "196",
+    "name": "Vaca para assar crua",
+    "kcalPer100g": 174.0
+  },
+  {
+    "id": "197",
+    "name": "Vaca para cozer ou estufar magra crua",
+    "kcalPer100g": 175.0
+  },
+  {
+    "id": "198",
+    "name": "Vaca para cozer ou estufar meio gorda crua",
+    "kcalPer100g": 227.0
+  },
+  {
+    "id": "1139",
+    "name": "Vaca, bife à café",
+    "kcalPer100g": 226.0
+  },
+  {
+    "id": "1138",
+    "name": "Vaca, bife à Marrare com manteiga",
+    "kcalPer100g": 368.0
+  },
+  {
+    "id": "1137",
+    "name": "Vaca, bife à Marrare com margarina",
+    "kcalPer100g": 363.0
+  },
+  {
+    "id": "1135",
+    "name": "Vaca, bife com ovo a cavalo, frito com banha",
+    "kcalPer100g": 172.0
+  },
+  {
+    "id": "1136",
+    "name": "Vaca, bife com ovo a cavalo, frito com manteiga",
+    "kcalPer100g": 155.0
+  },
+  {
+    "id": "217",
+    "name": "Vaca, bife cru (valor médio de acém, alcatra e lombo)",
+    "kcalPer100g": 122.0
+  },
+  {
+    "id": "219",
+    "name": "Vaca, bife frito com manteiga (valor médio de acém, alcatra e lombo)",
+    "kcalPer100g": 201.0
+  },
+  {
+    "id": "220",
+    "name": "Vaca, bife frito, sem molho (valor médio de acém, alcatra e lombo)",
+    "kcalPer100g": 183.0
+  },
+  {
+    "id": "218",
+    "name": "Vaca, bife grelhado (valor médio de acém, alcatra e lombo)",
+    "kcalPer100g": 163.0
+  },
+  {
+    "id": "2120000003",
+    "name": "Vaca, cachaço cru",
+    "kcalPer100g": 137.0
+  },
+  {
+    "id": "318",
+    "name": "Vaca, coração cozido",
+    "kcalPer100g": 123.0
+  },
+  {
+    "id": "317",
+    "name": "Vaca, coração cru",
+    "kcalPer100g": 92.0
+  },
+  {
+    "id": "319",
+    "name": "Vaca, coração estufado com banha e margarina",
+    "kcalPer100g": 154.0
+  },
+  {
+    "id": "1134",
+    "name": "Vaca, espetada grelhada",
+    "kcalPer100g": 213.0
+  },
+  {
+    "id": "324",
+    "name": "Vaca, fígado cru",
+    "kcalPer100g": 132.0
+  },
+  {
+    "id": "325",
+    "name": "Vaca, fígado frito sem molho",
+    "kcalPer100g": 171.0
+  },
+  {
+    "id": "293",
+    "name": "Vaca, hambúrguer cru",
+    "kcalPer100g": 142.0
+  },
+  {
+    "id": "1033",
+    "name": "Vaca, hambúrguer frito",
+    "kcalPer100g": 207.0
+  },
+  {
+    "id": "294",
+    "name": "Vaca, hambúrguer grelhado",
+    "kcalPer100g": 183.0
+  },
+  {
+    "id": "330",
+    "name": "Vaca, língua crua",
+    "kcalPer100g": 199.0
+  },
+  {
+    "id": "331",
+    "name": "Vaca, língua estufada, sem molho",
+    "kcalPer100g": 267.0
+  },
+  {
+    "id": "211",
+    "name": "Vaca, lombo magro assado com azeite e margarina",
+    "kcalPer100g": 205.0
+  },
+  {
+    "id": "213",
+    "name": "Vaca, lombo magro assado com azeite, manteiga e óleo alimentar",
+    "kcalPer100g": 207.0
+  },
+  {
+    "id": "210",
+    "name": "Vaca, lombo magro assado com margarina",
+    "kcalPer100g": 198.0
+  },
+  {
+    "id": "212",
+    "name": "Vaca, lombo magro assado com óleo alimentar e margarina",
+    "kcalPer100g": 205.0
+  },
+  {
+    "id": "208",
+    "name": "Vaca, lombo magro assado, sem molho",
+    "kcalPer100g": 172.0
+  },
+  {
+    "id": "195",
+    "name": "Vaca, lombo magro cru",
+    "kcalPer100g": 114.0
+  },
+  {
+    "id": "1140",
+    "name": "Vaca, lombo magro no forno, com tomate, cebola, cenoura e alho",
+    "kcalPer100g": 128.0
+  },
+  {
+    "id": "1141",
+    "name": "Vaca, picanha grelhada",
+    "kcalPer100g": 194.0
+  },
+  {
+    "id": "336",
+    "name": "Vaca, rim cru",
+    "kcalPer100g": 92.0
+  },
+  {
+    "id": "1900000003",
+    "name": "Veado cru",
+    "kcalPer100g": 112.0
+  },
+  {
+    "id": "1900000098",
+    "name": "Vieira, crua",
+    "kcalPer100g": 83.0
+  },
+  {
+    "id": "314",
+    "name": "Vinagre",
+    "kcalPer100g": 22.0
+  },
+  {
+    "id": "250023",
+    "name": "Vinho branco de uvas sobreamadurecidas",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "722",
+    "name": "Vinho da Madeira",
+    "kcalPer100g": 147.0
+  },
+  {
+    "id": "723",
+    "name": "Vinho do Porto, doce",
+    "kcalPer100g": 167.0
+  },
+  {
+    "id": "724",
+    "name": "Vinho do Porto, meio seco",
+    "kcalPer100g": 141.0
+  },
+  {
+    "id": "725",
+    "name": "Vinho do Porto, seco",
+    "kcalPer100g": 138.0
+  },
+  {
+    "id": "250017",
+    "name": "Vinho espumante, Bruto",
+    "kcalPer100g": 74.0
+  },
+  {
+    "id": "719",
+    "name": "Vinho espumante, Doce",
+    "kcalPer100g": 110.0
+  },
+  {
+    "id": "718",
+    "name": "Vinho espumante, Extra bruto",
+    "kcalPer100g": 71.0
+  },
+  {
+    "id": "250018",
+    "name": "Vinho espumante, Extra seco",
+    "kcalPer100g": 76.0
+  },
+  {
+    "id": "720",
+    "name": "Vinho espumante, Meio seco",
+    "kcalPer100g": 80.0
+  },
+  {
+    "id": "721",
+    "name": "Vinho espumante, Seco",
+    "kcalPer100g": 77.0
+  },
+  {
+    "id": "250019",
+    "name": "Vinho frisante",
+    "kcalPer100g": 68.0
+  },
+  {
+    "id": "250021",
+    "name": "Vinho licoroso, teor alcoólico  ≥17 e <20%vol.",
+    "kcalPer100g": 126.0
+  },
+  {
+    "id": "250020",
+    "name": "Vinho licoroso, teor alcoólico <17%vol.",
+    "kcalPer100g": 123.0
+  },
+  {
+    "id": "250022",
+    "name": "Vinho licoroso, teor alcoólico ≥20% vol.",
+    "kcalPer100g": 147.0
+  },
+  {
+    "id": "712",
+    "name": "Vinho maduro branco, teor alcoólico <12,5% vol.",
+    "kcalPer100g": 74.0
+  },
+  {
+    "id": "250014",
+    "name": "Vinho maduro branco, teor alcoólico ≥12,5% vol.",
+    "kcalPer100g": 98.0
+  },
+  {
+    "id": "713",
+    "name": "Vinho maduro palhete",
+    "kcalPer100g": 65.0
+  },
+  {
+    "id": "714",
+    "name": "Vinho maduro tinto, teor alcoólico <12,5% vol.",
+    "kcalPer100g": 72.0
+  },
+  {
+    "id": "250015",
+    "name": "Vinho maduro tinto, teor alcoólico ≥12,5% vol.",
+    "kcalPer100g": 96.0
+  },
+  {
+    "id": "250024",
+    "name": "Vinho rosé de uvas sobreamadurecidas",
+    "kcalPer100g": 107.0
+  },
+  {
+    "id": "715",
+    "name": "Vinho rosé, teor alcoólico <12,5% vol.",
+    "kcalPer100g": 71.0
+  },
+  {
+    "id": "250016",
+    "name": "Vinho rosé, teor alcoólico ≥12,5% vol.",
+    "kcalPer100g": 103.0
+  },
+  {
+    "id": "716",
+    "name": "Vinho verde branco",
+    "kcalPer100g": 60.0
+  },
+  {
+    "id": "717",
+    "name": "Vinho verde tinto",
+    "kcalPer100g": 59.0
+  },
+  {
+    "id": "2120000005",
+    "name": "Vitela, bife cru",
+    "kcalPer100g": 149.0
+  },
+  {
+    "id": "1142",
+    "name": "Vitela, bife frito",
+    "kcalPer100g": 229.0
+  },
+  {
+    "id": "2120000004",
+    "name": "Vitela, chambão cru",
+    "kcalPer100g": 195.0
+  },
+  {
+    "id": "320",
+    "name": "Vitela, coração cru",
+    "kcalPer100g": 100.0
+  },
+  {
+    "id": "223",
+    "name": "Vitela, costeleta crua",
+    "kcalPer100g": 121.0
+  },
+  {
+    "id": "238",
+    "name": "Vitela, costeleta frita com margarina",
+    "kcalPer100g": 183.0
+  },
+  {
+    "id": "1143",
+    "name": "Vitela, costeleta frita panada",
+    "kcalPer100g": 148.0
+  },
+  {
+    "id": "239",
+    "name": "Vitela, costeleta frita sem molho",
+    "kcalPer100g": 159.0
+  },
+  {
+    "id": "235",
+    "name": "Vitela, costeleta grelhada",
+    "kcalPer100g": 131.0
+  },
+  {
+    "id": "326",
+    "name": "Vitela, fígado cru",
+    "kcalPer100g": 119.0
+  },
+  {
+    "id": "328",
+    "name": "Vitela, fígado frito com margarina e banha",
+    "kcalPer100g": 201.0
+  },
+  {
+    "id": "329",
+    "name": "Vitela, fígado frito sem molho",
+    "kcalPer100g": 179.0
+  },
+  {
+    "id": "327",
+    "name": "Vitela, fígado grelhado",
+    "kcalPer100g": 153.0
+  },
+  {
+    "id": "230",
+    "name": "Vitela, lombo assado com azeite e margarina",
+    "kcalPer100g": 225.0
+  },
+  {
+    "id": "232",
+    "name": "Vitela, lombo assado com azeite, margarina e óleo alimentar",
+    "kcalPer100g": 225.0
+  },
+  {
+    "id": "231",
+    "name": "Vitela, lombo assado com margarina e óleo alimentar",
+    "kcalPer100g": 225.0
+  },
+  {
+    "id": "233",
+    "name": "Vitela, lombo assado, sem molho",
+    "kcalPer100g": 151.0
+  },
+  {
+    "id": "222",
+    "name": "Vitela, lombo cru",
+    "kcalPer100g": 148.0
+  },
+  {
+    "id": "236",
+    "name": "Vitela, lombo frito com margarina",
+    "kcalPer100g": 217.0
+  },
+  {
+    "id": "237",
+    "name": "Vitela, lombo frito, sem molho",
+    "kcalPer100g": 195.0
+  },
+  {
+    "id": "234",
+    "name": "Vitela, lombo grelhado",
+    "kcalPer100g": 150.0
+  },
+  {
+    "id": "2120000006",
+    "name": "Vitela, pá crua",
+    "kcalPer100g": 138.0
+  },
+  {
+    "id": "225",
+    "name": "Vitela, peito magro cozido",
+    "kcalPer100g": 171.0
+  },
+  {
+    "id": "224",
+    "name": "Vitela, peito magro cru",
+    "kcalPer100g": 147.0
+  },
+  {
+    "id": "70203037",
+    "name": "Vitela, peito magro estufado",
+    "kcalPer100g": 208.0
+  },
+  {
+    "id": "228",
+    "name": "Vitela, peito magro estufado com azeite e margarina",
+    "kcalPer100g": 208.0
+  },
+  {
+    "id": "229",
+    "name": "Vitela, peito magro estufado com azeite, margarina e óleo alimentar",
+    "kcalPer100g": 208.0
+  },
+  {
+    "id": "227",
+    "name": "Vitela, peito magro estufado com margarina e óleo alimentar",
+    "kcalPer100g": 208.0
+  },
+  {
+    "id": "226",
+    "name": "Vitela, peito magro estufado, sem molho",
+    "kcalPer100g": 179.0
+  },
+  {
+    "id": "1900000066",
+    "name": "Wasabi, raiz crua",
+    "kcalPer100g": 100.0
+  }
+]

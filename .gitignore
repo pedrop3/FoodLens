@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods (não usado, mas por segurança)
+Pods/
+
+# Ficheiros de dados brutos usados só para gerar insa_foods.json
+Scripts/*.xlsx
