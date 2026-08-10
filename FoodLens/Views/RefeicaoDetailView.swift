@@ -8,6 +8,8 @@ struct RefeicaoDetailView: View {
 
     let refeicao: Refeicao
 
+    @State private var mostrarConfirmacao = false
+
     var body: some View {
         VStack(spacing: 0) {
             header
@@ -25,10 +27,22 @@ struct RefeicaoDetailView: View {
         .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             ToolbarItem(placement: .primaryAction) {
-                Button(role: .destructive, action: apagarRefeicao) {
+                Button(role: .destructive) {
+                    mostrarConfirmacao = true
+                } label: {
                     Label("Apagar", systemImage: "trash")
                 }
             }
+        }
+        .confirmationDialog(
+            "Apagar esta refeição?",
+            isPresented: $mostrarConfirmacao,
+            titleVisibility: .visible
+        ) {
+            Button("Apagar", role: .destructive, action: apagarRefeicao)
+            Button("Cancelar", role: .cancel) {}
+        } message: {
+            Text("Esta ação não pode ser desfeita.")
         }
     }
 
